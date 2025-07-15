@@ -1,0 +1,233 @@
+crop_img/image_1_crop_0.jpg	SOLID:
+crop_img/image_1_crop_1.jpg	Derign frineip: quideli for digning oftware baed on oo
+crop_img/image_1_crop_2.jpg	.Aimx: understandability, extendabi lity, maintainance
+crop_img/image_1_crop_3.jpg	.Avoidk: qigidity fhagilityimmobility and vikcority
+crop_img/image_1_crop_4.jpg	 Singl Rexpom bility (s): Each da only hars 1 job
+crop_img/image_1_crop_5.jpg	 open/dosed (o): open for extensaon,closed fon modification
+crop_img/image_1_crop_6.jpg	. Meaning We ean add new functionality without ltering old code
+crop_img/image_1_crop_7.jpg	 Likor Sub frin (2:objet of a upera can be uplaced by it
+crop_img/image_1_crop_8.jpg	subclares objects without damaging the progaam
+crop_img/image_1_crop_9.jpg	Interface Seg (I): Dornt fore the clients to dep on thingx they dontuse
+crop_img/image_1_crop_10.jpg	）
+crop_img/image_1_crop_11.jpg	 Pependency Inv (p): High-level dars doexn't depend on fow-bevel one
+crop_img/image_1_crop_12.jpg	GRASL : g phiciples
+crop_img/image_1_crop_13.jpg	fou on amigning rponbilitir to das and jetino
+crop_img/image_1_crop_14.jpg	 Creatoh (lattern): objet reated by the da that has the most info to ouate it
+crop_img/image_1_crop_15.jpg	.When? aggreg ation on containment  tracking  cloe uxe initialization
+crop_img/image_1_crop_16.jpg	80
+crop_img/image_1_crop_17.jpg	data
+crop_img/image_1_crop_18.jpg	Info Expert : arg fxp to the dar that has the eential info to ouate it
+crop_img/image_1_crop_19.jpg	.Note: conxider the type of surp and whot info are needed
+crop_img/image_1_crop_20.jpg	 Low Couplind
+crop_img/image_1_crop_21.jpg	: reduce dep bet wen clansur ar much ar pomible
+crop_img/image_1_crop_22.jpg	.How? ue intorfacex absthact lass, dep injection, compo > inheritance,
+crop_img/image_1_crop_23.jpg	behavion encap snlation, avoid bi dired relationship
+crop_img/image_2_crop_0.jpg	 High Co herion : Similar to S in SoLID
+crop_img/image_2_crop_1.jpg	,
+crop_img/image_2_crop_2.jpg	Controllier : Keep the UI re parate from the Model
+crop_img/image_2_crop_3.jpg	.How? when handling a sys eventag it to a non-UI cloly that
+crop_img/image_2_crop_4.jpg	hepre the whole xyr /a use care senario the xy& respond
+crop_img/image_2_crop_5.jpg	Iolymonphixm : Flexible and dy namic behavior in an application
+crop_img/image_2_crop_6.jpg	.Evrential for low coupling
+crop_img/image_2_crop_7.jpg	Iure Fabrication: atg resp to darser that dont gepre a concept
+crop_img/image_2_crop_8.jpg	When ? when we cannot find a xol within the pa blem domain
+crop_img/image_2_crop_9.jpg	middle party
+crop_img/image_2_crop_10.jpg	) Indirection : Intso an inter me diate clas or dbject to mediate between darrer
+crop_img/image_2_crop_11.jpg	.When 2 when coupling is high
+crop_img/image_2_crop_12.jpg	. Similor to "Don't talk to sthanger
+crop_img/image_2_crop_13.jpg	 frotected Variation: Photecting clementx from the change of otherk
+crop_img/image_2_crop_14.jpg	.How? one element's change doekn't make others change
+crop_img/image_2_crop_15.jpg	Refactoning:mallindtechniqutoeprga radabeundrstand
+crop_img/image_2_crop_16.jpg	maintain , improving design without changing functionality
+crop_img/image_2_crop_17.jpg	. Key feature : enlowre prog ram wonks at every detailed step
+crop_img/image_2_crop_18.jpg	why? Reg change, deign improvementprogrammerk toppiner
+crop_img/image_2_crop_19.jpg	Outcome : make prog more flexible
+crop_img/image_2_crop_20.jpg	Ex:renaming,collarpe hietrarchy,nolidcte/ decompose cond&
+crop_img/image_2_crop_21.jpg	(ex:mrge)
+crop_img/image_2_crop_22.jpg	(ex:. combine condk that → game gesult
+crop_img/image_2_crop_23.jpg	· faplace complex conds by method)
+crop_img/image_2_crop_24.jpg	extradt cluvs/ method
+crop_img/image_2_crop_25.jpg	(ex:replace code fgment by amthod)
+crop_img/image_2_crop_26.jpg	(et: a dars doing≥a work→ make a new clars
+crop_img/image_3_crop_0.jpg	.When?whn adinga new featur/review code/fixingbug
+crop_img/image_3_crop_1.jpg	.When not? broken code / close dead line / no need to
+crop_img/image_3_crop_2.jpg	code Smell: A sur face indi tion that uually crpd to a duper prob in &ys
+crop_img/image_3_crop_3.jpg	.Usually found when refactozing /examining code
+crop_img/image_3_crop_4.jpg	.How come? qus hed design/ techinical debt (lazy Ist→ mork work
+crop_img/image_3_crop_5.jpg	disreg ard
+crop_img/image_3_crop_6.jpg	later)
+crop_img/image_3_crop_7.jpg	Right way : use bost practicer + deve lop a design that can teale
+crop_img/image_3_crop_8.jpg	Fart way:
+crop_img/image_3_crop_9.jpg	"hacked tog etherdesign) farter
+crop_img/image_3_crop_10.jpg	identical
+crop_img/image_3_crop_11.jpg	(group of υo)
+crop_img/image_3_crop_12.jpg	Bloaterus: Aomething T so lorge and out of control
+crop_img/image_3_crop_13.jpg	(>10lines)
+crop_img/image_3_crop_14.jpg	.sign: contain long I duplicat ed code ilong darmethodj data clump;
+crop_img/image_3_crop_15.jpg	long para list
+crop_img/image_3_crop_16.jpg	. How come? devs
+crop_img/image_3_crop_17.jpg	may be tempted to put new feat wre into an
+crop_img/image_3_crop_18.jpg	existi ng clarr
+crop_img/image_3_crop_19.jpg	.talat ment: extract dlars/nb-class/method ;tay deleting a num
+crop_img/image_3_crop_20.jpg	to see if code still makes sense,extract daur ; baeakup algo)
+crop_img/image_3_crop_21.jpg	wse methodr ) paus the whole object as data (lre serve whole
+crop_img/image_3_crop_22.jpg	object)
+crop_img/image_3_crop_23.jpg	. o0 Abusorux: sol dolan't fully exploit oo derignx
+crop_img/image_3_crop_24.jpg	.Sign:complexsith sequn i;refured bequst
+crop_img/image_3_crop_25.jpg	subdars fef ured to woe all porent ' methodr)
+crop_img/image_3_crop_26.jpg	.why? For refuxed bequert, deuk ore tempted to ue inheritance
+crop_img/image_3_crop_27.jpg	toT rewsability
+crop_img/image_3_crop_28.jpg	.Theat ment : Exthact method) polymorp hism j push down method
+crop_img/image_3_crop_29.jpg	use inten face , eliminate in he hitance
+crop_img/image_4_crop_0.jpg	change Bueventrr:st that hinders changing /upgading
+crop_img/image_4_crop_1.jpg	(Shortgun surgery)
+crop_img/image_4_crop_2.jpg	.sign: make modifi regs makl &mall changer to many other j
+crop_img/image_4_crop_3.jpg	many changes made to only one cas(Divongent change)
+crop_img/image_4_crop_4.jpg	.Why?Foientage:oostcpy psto
+crop_img/image_4_crop_5.jpg	.Tuatment : Com bine to a single dars ; Extract dark/method
+crop_img/image_4_crop_6.jpg	Dispenku blek
+crop_img/image_4_crop_7.jpg	:unneces awry things
+crop_img/image_4_crop_8.jpg	• Sign: duplicat ed codes ; laty da j data daw
+crop_img/image_4_crop_9.jpg	.Why2For lazy dlar,a clalr may become very mall after reveral
+crop_img/image_4_crop_10.jpg	nefactoring,og it 's designed for fut wte dev that is never done
+crop_img/image_4_crop_11.jpg	. Tratment: Extract method ; Inlion clars ; Mo ve/Extnact method,
+crop_img/image_4_crop_12.jpg	encapsnlation
+crop_img/image_4_crop_13.jpg	Couplerr : closely connect ed routiner /moduler
+crop_img/image_4_crop_14.jpg	(Feature envy)
+crop_img/image_4_crop_15.jpg	.sign: a method kemk more interested in a dous than the one itls in)
+crop_img/image_4_crop_16.jpg	canrus know too much about each other; clau only do one action and
+crop_img/image_4_crop_17.jpg	1
+crop_img/image_4_crop_18.jpg	J
+crop_img/image_4_crop_19.jpg	delegate work to ther clarser
+crop_img/image_4_crop_20.jpg	middle
+crop_img/image_4_crop_21.jpg	Inapporiate intimacy
+crop_img/image_4_crop_22.jpg	man
+crop_img/image_4_crop_23.jpg	Why2. For middle man, moving to much from a dlas resulting in
+crop_img/image_4_crop_24.jpg	it can only de leg ate work
+crop_img/image_4_crop_25.jpg	.Teat ment :move method j move method/gieldchange "aociation
+crop_img/image_4_crop_26.jpg	to"onc=;inline clan
+crop_img/image_4_crop_27.jpg	Design batten. tyfical solutions to common probs in koftwae design
+crop_img/image_4_crop_28.jpg	(like a blue psint if algo is like a recipe)
+crop_img/image_5_crop_0.jpg	Cate gory of Lat
+crop_img/image_5_crop_1.jpg	-Geational fat:try to reate Muitable object→Tflexibility and ode reuse
+crop_img/image_5_crop_2.jpg	 Struct wral lat : exeplain how to avemble & carrer  lorger strnctwre
+crop_img/image_5_crop_3.jpg	Lstill flexible and
+crop_img/image_5_crop_4.jpg	efficient)
+crop_img/image_5_crop_5.jpg	Behavioral bat: algorithmk & asgn of resp of bect
+crop_img/image_5_crop_6.jpg	Sing leton lat: E Cra,ens we only one instan of a dors ever gels
+crop_img/image_5_crop_7.jpg	created and al one global way to acces it
+crop_img/image_5_crop_8.jpg	.Componentx: private constauctor public static method, private static inktane
+crop_img/image_5_crop_9.jpg	(to accers)
+crop_img/image_5_crop_10.jpg	(store one
+crop_img/image_5_crop_11.jpg	variable
+crop_img/image_5_crop_12.jpg	inktance
+crop_img/image_5_crop_13.jpg	only sate an instane
+crop_img/image_5_crop_14.jpg	if null
+crop_img/image_5_crop_15.jpg	Strategy Lat:  Beh define a fam of algo by putting them in sarate
+crop_img/image_5_crop_16.jpg	davs and making their objects inter changeabe
+crop_img/image_5_crop_17.jpg	. T maintain & grow
+crop_img/image_5_crop_18.jpg	(omponentx :A sthategy interface includer # con crete strategiox)
+crop_img/image_5_crop_19.jpg	to use
+crop_img/image_5_crop_20.jpg	Factory Method lat: E oaa, uing a factory method to ouate instancer of
+crop_img/image_5_crop_21.jpg	a dan instead of directly create them
+crop_img/image_5_crop_22.jpg	.Why? changing the type of object ured can be challenging.We can
+crop_img/image_5_crop_23.jpg	decouple instance seation wriny factory method
+crop_img/image_5_crop_24.jpg	.Components: Inter fau lroduct incuder # ondrete productsa creator
+crop_img/image_5_crop_25.jpg	class that in inherited by conorete reat otr clar orpd to each congrete
+crop_img/image_5_crop_26.jpg	productn
+crop_img/image_5_crop_27.jpg	Observe lat: E bch, define a subs viption mechanim to have multiple
+crop_img/image_5_crop_28.jpg	eventk issued by the “lublisher" and multiple "obslrver"notified
+crop_img/image_5_crop_29.jpg	.Why? Sometimer a change to y needed to be notified to all
+crop_img/image_5_crop_30.jpg	other wruus
+crop_img/image_6_crop_0.jpg	Component: pubblisher clarr that holds a list of sub orifou, and
+crop_img/image_6_crop_1.jpg	concrete sub criber dlasser (ionplaments the interface Subcriber)
+crop_img/image_6_crop_2.jpg	Componite lat: E stauct, all about guating true-lihe stoucturer of objects.
+crop_img/image_6_crop_3.jpg	Theat individucal objedtx aned comporitions uni formly
+crop_img/image_6_crop_4.jpg	lom po nent's : delegate
+crop_img/image_6_crop_5.jpg	T all wonk to leaf
+crop_img/image_6_crop_6.jpg	. Components: interface Compo nent,extended by
+crop_img/image_6_crop_7.jpg	V leaf: do all the work
+crop_img/image_6_crop_8.jpg	Visiton lat : E Beh, helpk add operationy to objectr without dltezing
+crop_img/image_6_crop_9.jpg	thorse object them se lver (use an exteral clarr for this)
+crop_img/image_6_crop_10.jpg	• Component: Inter face visiton,# son crete vixitor clarsex imple Visitor
+crop_img/image_6_crop_11.jpg	# Concrete element oupd to each viritosr dass impe interface Element
+crop_img/image_6_crop_12.jpg	Decorator fat: E strudt , helps add featurer or bchaviorr to objectx
+crop_img/image_6_crop_13.jpg	withont changing the object's original clas
+crop_img/image_6_crop_14.jpg	• Componentx : a Notifier da
+crop_img/image_6_crop_15.jpg	Base lecorator (where we will add feat wres)
+crop_img/image_6_crop_16.jpg	Conoete Notifiovs in herited from Bosse Pe corator
+crop_img/image_6_crop_17.jpg	Whyixavod aExionignOped
+crop_img/image_6_crop_18.jpg	lnin
+crop_img/image_6_crop_19.jpg	'
+crop_img/image_6_crop_20.jpg	Client
+crop_img/image_6_crop_21.jpg	einterface
+crop_img/image_6_crop_22.jpg	DataSource
+crop_img/image_6_crop_23.jpg	+writeData(data)
+crop_img/image_6_crop_24.jpg	+readData0
+crop_img/image_6_crop_25.jpg	4
+crop_img/image_6_crop_26.jpg	FileDataSource
+crop_img/image_6_crop_27.jpg	DataSourceDecorator
+crop_img/image_6_crop_28.jpg	-filename
+crop_img/image_6_crop_29.jpg	-wrappee: DataSource
+crop_img/image_6_crop_30.jpg	+FileDataSource(filename)
+crop_img/image_6_crop_31.jpg	+DataSourceDecorator(s:DataSource）
+crop_img/image_6_crop_32.jpg	+writeData(data)
+crop_img/image_6_crop_33.jpg	+writeData(data)
+crop_img/image_6_crop_34.jpg	readData0
+crop_img/image_6_crop_35.jpg	+readData(
+crop_img/image_6_crop_36.jpg	4
+crop_img/image_6_crop_37.jpg	Encryption
+crop_img/image_6_crop_38.jpg	Compression
+crop_img/image_6_crop_39.jpg	Decorator
+crop_img/image_6_crop_40.jpg	Decorator
+crop_img/image_6_crop_41.jpg	.
+crop_img/image_6_crop_42.jpg	writeData(data)
+crop_img/image_6_crop_43.jpg	+writeData(data）
+crop_img/image_6_crop_44.jpg	+readData0
+crop_img/image_6_crop_45.jpg	+readData0
+crop_img/image_7_crop_0.jpg	Soft ware Anre ment & Terting :
+crop_img/image_7_crop_1.jpg	) Dynamic Vuri fication: tert sys until it fail (executing code in a
+crop_img/image_7_crop_2.jpg	tuntim env), inchude vorious levels
+crop_img/image_7_crop_3.jpg	static verification : examining code wl out executing it. Uke thol to
+crop_img/image_7_crop_4.jpg	analyte code,Can be performed very early on. Doen't fag runtime env
+crop_img/image_7_crop_5.jpg	on compiled code
+crop_img/image_7_crop_6.jpg	)Inxpedtion/heview/walk though:
+crop_img/image_7_crop_7.jpg	Human activity) group -bared + manual
+crop_img/image_7_crop_8.jpg	Inspection: for mal checkhirt + moderaton
+crop_img/image_7_crop_9.jpg	Review : lers for mal + pers
+crop_img/image_7_crop_10.jpg	Walk through:
+crop_img/image_7_crop_11.jpg	informal + autho
+crop_img/image_7_crop_12.jpg	 Fotmal verification : Math -ex haustive can be time -consuming + expeniv
+crop_img/image_7_crop_13.jpg	ousideonga
+crop_img/image_7_crop_14.jpg	ovdsideonga
+crop_img/image_7_crop_15.jpg	within orga
+crop_img/image_7_crop_16.jpg	mithin onga
+crop_img/image_7_crop_17.jpg	) Testing stages:
+crop_img/image_7_crop_18.jpg	Dev Test  α Tert β Tert  lroduct Release
+crop_img/image_7_crop_19.jpg	(open box)
+crop_img/image_7_crop_20.jpg	(black bore)
+crop_img/image_7_crop_21.jpg	) Terting tech nique
+crop_img/image_7_crop_22.jpg	o faque bor Tert
+crop_img/image_7_crop_23.jpg	Cear Box Test
+crop_img/image_7_crop_24.jpg	) Test Driven Development ( Too): Tert written before code ) and ~ dl
+crop_img/image_7_crop_25.jpg	phoduction code have tut unit
+crop_img/image_7_crop_26.jpg	. huler: ma ke it fail
+crop_img/image_7_crop_27.jpg	make it work (ar xinply ar po mible)
+crop_img/image_7_crop_28.jpg	make it better (re facton)
+crop_img/image_7_crop_29.jpg	 Run Turt → New aeq → Wtrite new tert → Run Tert
+crop_img/image_7_crop_30.jpg	) Tert Cycb:
+crop_img/image_7_crop_31.jpg	wgite new
+crop_img/image_7_crop_32.jpg	refactor t qun tert 
+crop_img/image_7_crop_33.jpg	wde
+crop_img/image_7_crop_34.jpg	AT dev disciplines
+crop_img/image_7_crop_35.jpg	a pnovide inoument al sfecgication
+crop_img/image_7_crop_36.jpg	) Why Too?
+crop_img/image_7_crop_37.jpg	④个 con fidence while changing
+crop_img/image_7_crop_38.jpg	Avoid regrewin
+crop_img/image_7_crop_39.jpg	3
+crop_img/image_7_crop_40.jpg	e2ok
+crop_img/test_image_crop_0.jpg	Grey Fox
+crop_img/test_image_crop_1.jpg	Tr
+crop_img/test_image_crop_2.jpg	W
+crop_img/test_image_crop_3.jpg	Waterfall
+crop_img/test_image_crop_4.jpg	Dr
