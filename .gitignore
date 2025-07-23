@@ -2,7 +2,7 @@
 checkpoints/inference_model/inference.pdiparams
 checkpoints/inference_model/inference.pdiparams.info
 checkpoints/inference_model/inference.pdmodel
-inference.yml
+checkpoints/inference_model/inference.yml
 checkpoints/v3_en_mobile/config.yml
 checkpoints/v3_en_mobile/iter_epoch_3.pdopt
 checkpoints/v3_en_mobile/iter_epoch_3.pdparams
