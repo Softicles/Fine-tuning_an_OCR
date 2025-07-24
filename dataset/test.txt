@@ -1,0 +1,1213 @@
+crop_img/micro_econ_note_82_crop_35.jpg	: the benefit that the consumer of a good
+crop_img/micro_econ_note_82_crop_36.jpg	or service receives from an additional unit
+crop_img/micro_econ_note_82_crop_37.jpg	(MEB)
+crop_img/micro_econ_note_82_crop_38.jpg	) Marginal external benefit: the benefit that people except consumers
+crop_img/micro_econ_note_82_crop_39.jpg	receive from an additional unit of a good/service
+crop_img/micro_econ_note_82_crop_40.jpg	(MSB)
+crop_img/micro_econ_note_82_crop_41.jpg	0) Marginal social benefit:
+crop_img/micro_econ_note_82_crop_42.jpg	the marginal benefit that everyone receives
+crop_img/micro_econ_note_83_crop_0.jpg	P
+crop_img/micro_econ_note_83_crop_1.jpg	MSC(S)
+crop_img/micro_econ_note_83_crop_2.jpg	MEB
+crop_img/micro_econ_note_83_crop_3.jpg	DWL
+crop_img/micro_econ_note_83_crop_4.jpg	7
+crop_img/micro_econ_note_83_crop_5.jpg	e88
+crop_img/micro_econ_note_83_crop_6.jpg	because at this point people also
+crop_img/micro_econ_note_83_crop_7.jpg	equi
+crop_img/micro_econ_note_83_crop_8.jpg	create benefits for others, not
+crop_img/micro_econ_note_83_crop_9.jpg	only themselves
+crop_img/micro_econ_note_83_crop_10.jpg	MSB
+crop_img/micro_econ_note_83_crop_11.jpg	MB(0)
+crop_img/micro_econ_note_83_crop_12.jpg	→
+crop_img/micro_econ_note_83_crop_13.jpg	Q
+crop_img/micro_econ_note_83_crop_14.jpg	(ETN)
+crop_img/micro_econ_note_83_crop_15.jpg	Approaches to increase eff using (t) externalities:
+crop_img/micro_econ_note_83_crop_16.jpg	① Public production: public authority given revenue by gov to produce
+crop_img/micro_econ_note_83_crop_17.jpg	a good/service
+crop_img/micro_econ_note_83_crop_18.jpg	Subsidies: payment to private producers by gov
+crop_img/micro_econ_note_83_crop_19.jpg	③
+crop_img/micro_econ_note_83_crop_20.jpg	Vouchers: a token gov gives households to buy a specific
+crop_img/micro_econ_note_83_crop_21.jpg	good/service
+crop_img/micro_econ_note_83_crop_22.jpg	Note: All of these cost money (gov user taxes), but if done right
+crop_img/micro_econ_note_83_crop_23.jpg	can achieve an efficient outcome
+crop_img/micro_econ_note_83_crop_24.jpg	)The tragedy of commons: A person uses too much of a common resource &
+crop_img/micro_econ_note_83_crop_25.jpg	they cause others in the city to suffer
+crop_img/micro_econ_note_83_crop_26.jpg	Chap11
+crop_img/micro_econ_note_83_crop_27.jpg	) Short run: Capital, land, entrepreneurship fixed
+crop_img/micro_econ_note_83_crop_28.jpg	Labor is variable
+crop_img/micro_econ_note_83_crop_29.jpg	) Long run: all factors of production can be varied
+crop_img/micro_econ_note_84_crop_0.jpg	 Marginal product of labor: D total output results from an additional
+crop_img/micro_econ_note_84_crop_1.jpg	unit of labor
+crop_img/micro_econ_note_84_crop_2.jpg	 Diminishing marginal return: occur when the marginal product of
+crop_img/micro_econ_note_84_crop_3.jpg	an additional worker is less than that of the previous worker
+crop_img/micro_econ_note_84_crop_4.jpg	Output
+crop_img/micro_econ_note_84_crop_5.jpg	个
+crop_img/micro_econ_note_84_crop_6.jpg	V
+crop_img/micro_econ_note_84_crop_7.jpg	Labon
+crop_img/micro_econ_note_84_crop_8.jpg	) short-run cost:
+crop_img/micro_econ_note_84_crop_9.jpg	(TFC)
+crop_img/micro_econ_note_84_crop_10.jpg	.Total fixed cost: the cost of the firm fixed factor
+crop_img/micro_econ_note_84_crop_11.jpg	(TVC)
+crop_img/micro_econ_note_84_crop_12.jpg	. Total
+crop_img/micro_econ_note_84_crop_13.jpg	variable cost: the cost of the firm's variable factor
+crop_img/micro_econ_note_84_crop_14.jpg	(TC)
+crop_img/micro_econ_note_84_crop_15.jpg	·Total cost; TC=TFC+TVC
+crop_img/micro_econ_note_84_crop_16.jpg	(AFC)
+crop_img/micro_econ_note_84_crop_17.jpg	TFC
+crop_img/micro_econ_note_84_crop_18.jpg	• Average fixed cost
+crop_img/micro_econ_note_84_crop_19.jpg	…
+crop_img/micro_econ_note_84_crop_20.jpg	Q
+crop_img/micro_econ_note_84_crop_21.jpg	(AVC)
+crop_img/micro_econ_note_84_crop_22.jpg	TVC
+crop_img/micro_econ_note_84_crop_23.jpg	Average variable cost:
+crop_img/micro_econ_note_84_crop_24.jpg	Q
+crop_img/micro_econ_note_84_crop_25.jpg	(ATC)
+crop_img/micro_econ_note_84_crop_26.jpg	Average total cost: ATC= AFC +AVC
+crop_img/micro_econ_note_84_crop_27.jpg	Marginal Cost: The increase in total cost from a one-unit increase
+crop_img/micro_econ_note_84_crop_28.jpg	in output
+crop_img/micro_econ_note_84_crop_29.jpg	ΔTC
+crop_img/micro_econ_note_84_crop_30.jpg	.MC
+crop_img/micro_econ_note_84_crop_31.jpg	△Q
+crop_img/micro_econ_note_85_crop_0.jpg	cost
+crop_img/micro_econ_note_85_crop_1.jpg	ATC
+crop_img/micro_econ_note_85_crop_2.jpg	个
+crop_img/micro_econ_note_85_crop_3.jpg	MC
+crop_img/micro_econ_note_85_crop_4.jpg	AVC (variable cost keep
+crop_img/micro_econ_note_85_crop_5.jpg	lowest
+crop_img/micro_econ_note_85_crop_6.jpg	increasing)
+crop_img/micro_econ_note_85_crop_7.jpg	lowest
+crop_img/micro_econ_note_85_crop_8.jpg	AFC
+crop_img/micro_econ_note_85_crop_9.jpg	output (Q)
+crop_img/micro_econ_note_85_crop_10.jpg	) Short-run cost:
+crop_img/micro_econ_note_85_crop_11.jpg	cost
+crop_img/micro_econ_note_85_crop_12.jpg	个
+crop_img/micro_econ_note_85_crop_13.jpg	(1 machine)
+crop_img/micro_econ_note_85_crop_14.jpg	(2ma)
+crop_img/micro_econ_note_85_crop_15.jpg	(3ma)
+crop_img/micro_econ_note_85_crop_16.jpg	(4ma
+crop_img/micro_econ_note_85_crop_17.jpg	ATC2
+crop_img/micro_econ_note_85_crop_18.jpg	ATC
+crop_img/micro_econ_note_85_crop_19.jpg	ATC
+crop_img/micro_econ_note_85_crop_20.jpg	ATC
+crop_img/micro_econ_note_85_crop_21.jpg	3
+crop_img/micro_econ_note_85_crop_22.jpg	output (Q)
+crop_img/micro_econ_note_85_crop_23.jpg	. ↑capital→↑output
+crop_img/micro_econ_note_85_crop_24.jpg	(LRAC)
+crop_img/micro_econ_note_85_crop_25.jpg	Long-Run Average Cost Curve: a firm operates on its LRAC when it
+crop_img/micro_econ_note_85_crop_26.jpg	produces a given output at the least possible cost
+crop_img/micro_econ_note_85_crop_27.jpg	cost
+crop_img/micro_econ_note_85_crop_28.jpg	(1 machine)
+crop_img/micro_econ_note_85_crop_29.jpg	(2ma) (3ma)
+crop_img/micro_econ_note_85_crop_30.jpg	(4ma
+crop_img/micro_econ_note_85_crop_31.jpg	ATC
+crop_img/micro_econ_note_85_crop_32.jpg	ATC
+crop_img/micro_econ_note_85_crop_33.jpg	ATC
+crop_img/micro_econ_note_85_crop_34.jpg	LRAC
+crop_img/micro_econ_note_85_crop_35.jpg	3
+crop_img/micro_econ_note_85_crop_36.jpg	output()
+crop_img/micro_econ_note_86_crop_0.jpg	Economies of scale: features of a firm's technology that makes
+crop_img/micro_econ_note_86_crop_1.jpg	ATC fall as Q increases
+crop_img/micro_econ_note_86_crop_2.jpg	. Where LRAC falls
+crop_img/micro_econ_note_86_crop_3.jpg	maker
+crop_img/micro_econ_note_86_crop_4.jpg	) Diseconomies of scale:
+crop_img/micro_econ_note_86_crop_5.jpg	ATC rises
+crop_img/micro_econ_note_86_crop_6.jpg	. Where LRAC increases
+crop_img/micro_econ_note_86_crop_7.jpg	) Constant return to scale:
+crop_img/micro_econ_note_86_crop_8.jpg	maker
+crop_img/micro_econ_note_86_crop_9.jpg	ATC constant
+crop_img/micro_econ_note_86_crop_10.jpg	. Where LRAC is horizontal
+crop_img/micro_econ_note_86_crop_11.jpg	Minimum Efficient Scale: the smallest output at which long-run
+crop_img/micro_econ_note_86_crop_12.jpg	.
+crop_img/micro_econ_note_86_crop_13.jpg	average cost reaches minimum
+crop_img/micro_econ_note_86_crop_14.jpg	cost
+crop_img/micro_econ_note_86_crop_15.jpg	(1 machine)
+crop_img/micro_econ_note_86_crop_16.jpg	(2ma) (3ma)
+crop_img/micro_econ_note_86_crop_17.jpg	(4ma
+crop_img/micro_econ_note_86_crop_18.jpg	ATC
+crop_img/micro_econ_note_86_crop_19.jpg	ATC
+crop_img/micro_econ_note_86_crop_20.jpg	ATC
+crop_img/micro_econ_note_86_crop_21.jpg	ATC
+crop_img/micro_econ_note_86_crop_22.jpg	2
+crop_img/micro_econ_note_86_crop_23.jpg	LRAC
+crop_img/micro_econ_note_86_crop_24.jpg	3
+crop_img/micro_econ_note_86_crop_25.jpg	output (Q)
+crop_img/micro_econ_note_86_crop_26.jpg	min efficient
+crop_img/micro_econ_note_86_crop_27.jpg	scale
+crop_img/micro_econ_note_86_crop_28.jpg	Chap 10:
+crop_img/micro_econ_note_86_crop_29.jpg	Intro to Firm
+crop_img/micro_econ_note_86_crop_30.jpg	Business organization
+crop_img/micro_econ_note_86_crop_31.jpg	4 market types: perfect competition, monopolistic competition, monopoly, oligopoly
+crop_img/micro_econ_note_86_crop_32.jpg	) Perfect competition:
+crop_img/micro_econ_note_86_crop_33.jpg	. Many buyers and sellers with an identical product
+crop_img/micro_econ_note_87_crop_0.jpg	. No individual buyer or seller can affect price (price-taker)
+crop_img/micro_econ_note_87_crop_1.jpg	. No barrier to entry of new firms
+crop_img/micro_econ_note_87_crop_2.jpg	Ex: wheat, cotton ) price
+crop_img/micro_econ_note_87_crop_3.jpg	.)
+crop_img/micro_econ_note_87_crop_4.jpg	Monopolistic comp:
+crop_img/micro_econ_note_87_crop_5.jpg	A large number of firms compete by making similar but slightly
+crop_img/micro_econ_note_87_crop_6.jpg	diff from dot (product differentiation)
+crop_img/micro_econ_note_87_crop_7.jpg	)Monopoly:
+crop_img/micro_econ_note_87_crop_8.jpg	One firm
+crop_img/micro_econ_note_87_crop_9.jpg	. produce good I service with no close substitute
+crop_img/micro_econ_note_87_crop_10.jpg	. a barrier to entry
+crop_img/micro_econ_note_87_crop_11.jpg	Can be local or global
+crop_img/micro_econ_note_87_crop_12.jpg	Ex of local monopoly : water suppliers
+crop_img/micro_econ_note_87_crop_13.jpg	) oligopoly
+crop_img/micro_econ_note_87_crop_14.jpg	. A small # firms compete
+crop_img/micro_econ_note_87_crop_15.jpg	. Might produce differentiated products
+crop_img/micro_econ_note_87_crop_16.jpg	.Firms act strategically by anticipating actions of other player
+crop_img/micro_econ_note_87_crop_17.jpg	-) comp level of the 4 market types:
+crop_img/micro_econ_note_87_crop_18.jpg	perfect comp
+crop_img/micro_econ_note_87_crop_19.jpg	>mono comp>
+crop_img/micro_econ_note_87_crop_20.jpg	oligopoly
+crop_img/micro_econ_note_87_crop_21.jpg	>mono
+crop_img/micro_econ_note_87_crop_22.jpg	4-firm%
+crop_img/micro_econ_note_87_crop_23.jpg	↑
+crop_img/micro_econ_note_87_crop_24.jpg	) Four-firm concentration ratio: % of total value of sales accounted
+crop_img/micro_econ_note_87_crop_25.jpg	for by the 4 largest firms in an industry
+crop_img/micro_econ_note_87_crop_26.jpg	.o for perfect comp
+crop_img/micro_econ_note_88_crop_0.jpg	1o0o for monopoly
+crop_img/micro_econ_note_88_crop_1.jpg	.>6o : highly concentrated and dominated by a few firms
+crop_img/micro_econ_note_88_crop_2.jpg	 <60% : indicate a comp market
+crop_img/micro_econ_note_88_crop_3.jpg	(UH index)
+crop_img/micro_econ_note_88_crop_4.jpg	Herfindahl-Hirschman Index:
+crop_img/micro_econ_note_88_crop_5.jpg	squared percentage market share
+crop_img/micro_econ_note_88_crop_6.jpg	of each firm summed over the largest 5o firms in the market
+crop_img/micro_econ_note_88_crop_7.jpg	 HHI is small in perfect competition
+crop_img/micro_econ_note_88_crop_8.jpg	. Monopoly HHI = 100 = 10000
+crop_img/micro_econ_note_88_crop_9.jpg	. A market where HHI > 2500 is uncompetitive
+crop_img/micro_econ_note_88_crop_10.jpg	) Limitations of concentration measure: fail to account for
+crop_img/micro_econ_note_88_crop_11.jpg	① Geographical scope of the market: because it takes on the whole
+crop_img/micro_econ_note_88_crop_12.jpg	nation
+crop_img/micro_econ_note_88_crop_13.jpg	Ex: concentration measure for newspaper is low, but in cities it is
+crop_img/micro_econ_note_88_crop_14.jpg	highly
+crop_img/micro_econ_note_88_crop_15.jpg	concentrated
+crop_img/micro_econ_note_88_crop_16.jpg	2
+crop_img/micro_econ_note_88_crop_17.jpg	Barriers to entry and firm turnover :
+crop_img/micro_econ_note_88_crop_18.jpg	. Some market are highly concentrated but entry is easy and turnover
+crop_img/micro_econ_note_88_crop_19.jpg	large
+crop_img/micro_econ_note_88_crop_20.jpg	.A market with few firms might be competitive because of potential
+crop_img/micro_econ_note_88_crop_21.jpg	entry
+crop_img/micro_econ_note_88_crop_22.jpg	③
+crop_img/micro_econ_note_88_crop_23.jpg	Market doesn't equate to industry
+crop_img/micro_econ_note_88_crop_24.jpg	. Concentration ratio based on industry, but market is usually smaller
+crop_img/micro_econ_note_88_crop_25.jpg	than industries
+crop_img/micro_econ_note_89_crop_0.jpg	Ex: Pharmaceutical industry has a low concentration ratio but
+crop_img/micro_econ_note_89_crop_1.jpg	the measles vaccine and AIDS fighting drug don't compete
+crop_img/micro_econ_note_89_crop_2.jpg	With each other ( many monopolies)
+crop_img/micro_econ_note_89_crop_3.jpg	.Firms assigned to one industry even if operate in many markets
+crop_img/micro_econ_note_89_crop_4.jpg	. Firms switch from one market to another for opportunities
+crop_img/micro_econ_note_89_crop_5.jpg	 Economies of Scope: when a firm uses specialized (often expensive)
+crop_img/micro_econ_note_89_crop_6.jpg	resource to produce a range of goods and services
+crop_img/micro_econ_note_89_crop_7.jpg	Chap 2:
+crop_img/micro_econ_note_89_crop_8.jpg	Perfect Competition
+crop_img/micro_econ_note_89_crop_9.jpg	) Perfect Competition : a market w/
+crop_img/micro_econ_note_89_crop_10.jpg	• Many buyers and sellers
+crop_img/micro_econ_note_89_crop_11.jpg	Identical product
+crop_img/micro_econ_note_89_crop_12.jpg	a No restrictions on entry to the market
+crop_img/micro_econ_note_89_crop_13.jpg	) Price takers: firms that cannot influence the market price because
+crop_img/micro_econ_note_89_crop_14.jpg	its production is an insignificant part of the total market
+crop_img/micro_econ_note_89_crop_15.jpg	In perfect comp market, all firms are price takers, f= market P
+crop_img/micro_econ_note_89_crop_16.jpg	(charge higher → no one will buy)
+crop_img/micro_econ_note_89_crop_17.jpg	(TR)
+crop_img/micro_econ_note_89_crop_18.jpg	-) Total Revenue =  ×Q
+crop_img/micro_econ_note_89_crop_19.jpg	(TC)
+crop_img/micro_econ_note_89_crop_20.jpg	) total cost
+crop_img/micro_econ_note_89_crop_21.jpg	=+VC+TFC
+crop_img/micro_econ_note_89_crop_22.jpg	(EL)
+crop_img/micro_econ_note_89_crop_23.jpg	If TR-TC<0
+crop_img/micro_econ_note_89_crop_24.jpg	 Economic profit = TR-TC when TR-TC>0
+crop_img/micro_econ_note_89_crop_25.jpg	→
+crop_img/micro_econ_note_89_crop_26.jpg	(MR)
+crop_img/micro_econ_note_89_crop_27.jpg	△TR
+crop_img/micro_econ_note_89_crop_28.jpg	.) Marginal Revenue
+crop_img/micro_econ_note_89_crop_29.jpg	=
+crop_img/micro_econ_note_89_crop_30.jpg	△Q
+crop_img/micro_econ_note_90_crop_0.jpg	Market for Corn
+crop_img/micro_econ_note_90_crop_1.jpg	P
+crop_img/micro_econ_note_90_crop_2.jpg	S
+crop_img/micro_econ_note_90_crop_3.jpg	D
+crop_img/micro_econ_note_90_crop_4.jpg	I=Imarket
+crop_img/micro_econ_note_90_crop_5.jpg	(for all
+crop_img/micro_econ_note_90_crop_6.jpg	firm)
+crop_img/micro_econ_note_90_crop_7.jpg	→
+crop_img/micro_econ_note_90_crop_8.jpg	Q
+crop_img/micro_econ_note_90_crop_9.jpg	TR
+crop_img/micro_econ_note_90_crop_10.jpg	(I =I market = const)
+crop_img/micro_econ_note_90_crop_11.jpg	TR
+crop_img/micro_econ_note_90_crop_12.jpg	Q
+crop_img/micro_econ_note_90_crop_13.jpg	MR = market
+crop_img/micro_econ_note_90_crop_14.jpg	(slope of TR os.a)
+crop_img/micro_econ_note_90_crop_15.jpg	→
+crop_img/micro_econ_note_90_crop_16.jpg	Q
+crop_img/micro_econ_note_90_crop_17.jpg	Illustrating econ profit and loss:
+crop_img/micro_econ_note_91_crop_0.jpg	→
+crop_img/micro_econ_note_91_crop_1.jpg	Q
+crop_img/micro_econ_note_91_crop_2.jpg	J
+crop_img/micro_econ_note_91_crop_3.jpg	firm should
+crop_img/micro_econ_note_91_crop_4.jpg	produce at
+crop_img/micro_econ_note_91_crop_5.jpg	this Q
+crop_img/micro_econ_note_91_crop_6.jpg	0) Illustrating MR,MC:
+crop_img/micro_econ_note_91_crop_7.jpg	MR, MC
+crop_img/micro_econ_note_91_crop_8.jpg	MC
+crop_img/micro_econ_note_91_crop_9.jpg	MR
+crop_img/micro_econ_note_91_crop_10.jpg	→
+crop_img/micro_econ_note_91_crop_11.jpg	Q
+crop_img/micro_econ_note_91_crop_12.jpg	) Shutdown Decision: When I< ATC → econ loss. Consider;
+crop_img/micro_econ_note_91_crop_13.jpg	.If I>AVC : can recover in a long run
+crop_img/micro_econ_note_91_crop_14.jpg	→ No shut down
+crop_img/micro_econ_note_91_crop_15.jpg	.Is I< AVC : the longer operating, the more losing
+crop_img/micro_econ_note_91_crop_16.jpg	→ Shut down
+crop_img/micro_econ_note_92_crop_0.jpg	)Breakeven:
+crop_img/micro_econ_note_92_crop_1.jpg	where I=ATC
+crop_img/micro_econ_note_92_crop_2.jpg	MC
+crop_img/micro_econ_note_92_crop_3.jpg	P
+crop_img/micro_econ_note_92_crop_4.jpg	ATC
+crop_img/micro_econ_note_92_crop_5.jpg	个
+crop_img/micro_econ_note_92_crop_6.jpg	/AVC
+crop_img/micro_econ_note_92_crop_7.jpg	breakeven
+crop_img/micro_econ_note_92_crop_8.jpg	shut down
+crop_img/micro_econ_note_92_crop_9.jpg	→
+crop_img/micro_econ_note_92_crop_10.jpg	Q
+crop_img/micro_econ_note_92_crop_11.jpg	When firm decides to shut down:
+crop_img/micro_econ_note_92_crop_12.jpg	MC
+crop_img/micro_econ_note_92_crop_13.jpg	f
+crop_img/micro_econ_note_92_crop_14.jpg	shortrun
+crop_img/micro_econ_note_92_crop_15.jpg	个
+crop_img/micro_econ_note_92_crop_16.jpg	supply curve
+crop_img/micro_econ_note_92_crop_17.jpg	AVC
+crop_img/micro_econ_note_92_crop_18.jpg	→
+crop_img/micro_econ_note_92_crop_19.jpg	Q
+crop_img/micro_econ_note_92_crop_20.jpg	In the short run, firm's capital  # firm stay the same)
+crop_img/micro_econ_note_92_crop_21.jpg	and I stays the same (at market)
+crop_img/micro_econ_note_92_crop_22.jpg	 Short-run Market Supply curve : shows the quantity supplied by
+crop_img/micro_econ_note_92_crop_23.jpg	all firms at each price in the short run
+crop_img/micro_econ_note_92_crop_24.jpg	.) Possible Short-run outcomes :
+crop_img/micro_econ_note_93_crop_0.jpg	Q
+crop_img/micro_econ_note_93_crop_1.jpg	efficient
+crop_img/micro_econ_note_93_crop_2.jpg	• Econ profit:
+crop_img/micro_econ_note_93_crop_3.jpg	P>ATC
+crop_img/micro_econ_note_93_crop_4.jpg	↑P
+crop_img/micro_econ_note_93_crop_5.jpg	econ profit
+crop_img/micro_econ_note_93_crop_6.jpg	MC
+crop_img/micro_econ_note_93_crop_7.jpg	MR( Revenue/ unit)
+crop_img/micro_econ_note_93_crop_8.jpg	V
+crop_img/micro_econ_note_93_crop_9.jpg	ATC
+crop_img/micro_econ_note_93_crop_10.jpg	(cost/unit)
+crop_img/micro_econ_note_93_crop_11.jpg	Q
+crop_img/micro_econ_note_93_crop_12.jpg	efficient
+crop_img/micro_econ_note_93_crop_13.jpg	. Econ Loss: I<ATC
+crop_img/micro_econ_note_93_crop_14.jpg	↑p
+crop_img/micro_econ_note_93_crop_15.jpg	MC
+crop_img/micro_econ_note_93_crop_16.jpg	ATC
+crop_img/micro_econ_note_93_crop_17.jpg	econ loss
+crop_img/micro_econ_note_93_crop_18.jpg	(cost/unit)
+crop_img/micro_econ_note_93_crop_19.jpg	MR
+crop_img/micro_econ_note_93_crop_20.jpg	Q
+crop_img/micro_econ_note_93_crop_21.jpg	efficient
+crop_img/micro_econ_note_94_crop_0.jpg	 Note: In the short-run, a firm can make an econ loss,
+crop_img/micro_econ_note_94_crop_1.jpg	econ profit, or break even
+crop_img/micro_econ_note_94_crop_2.jpg	In the long-run, a perfectly competitive firm can only
+crop_img/micro_econ_note_94_crop_3.jpg	make zero econ profit due to entry and exit into the market
+crop_img/micro_econ_note_94_crop_4.jpg	) Enter: when firms make econ profit (I>ATC), new firms
+crop_img/micro_econ_note_94_crop_5.jpg	will enter the market
+crop_img/micro_econ_note_94_crop_6.jpg	→ I market ↓ and econ profit ↓
+crop_img/micro_econ_note_94_crop_7.jpg	 Exit: when firms have econ loss (I<ATC) firms exit market
+crop_img/micro_econ_note_94_crop_8.jpg	→ I market ↑ and econ profit ↑
+crop_img/micro_econ_note_94_crop_9.jpg	 Note: At equilibrium (no econ profit or loss) enter and exit stop
+crop_img/micro_econ_note_94_crop_10.jpg	. In the long run, I=ATC
+crop_img/micro_econ_note_94_crop_11.jpg	)Demand ↑:
+crop_img/micro_econ_note_94_crop_12.jpg	Short run
+crop_img/micro_econ_note_94_crop_13.jpg	Long run
+crop_img/micro_econ_note_94_crop_14.jpg	P
+crop_img/micro_econ_note_94_crop_15.jpg	S
+crop_img/micro_econ_note_94_crop_16.jpg	P
+crop_img/micro_econ_note_94_crop_17.jpg	S
+crop_img/micro_econ_note_94_crop_18.jpg	S1
+crop_img/micro_econ_note_94_crop_19.jpg	fP_{1 } ATC
+crop_img/micro_econ_note_94_crop_20.jpg	B
+crop_img/micro_econ_note_94_crop_21.jpg	$f_1}$
+crop_img/micro_econ_note_94_crop_22.jpg	B
+crop_img/micro_econ_note_94_crop_23.jpg	$_{1}$
+crop_img/micro_econ_note_94_crop_24.jpg	L。
+crop_img/micro_econ_note_94_crop_25.jpg	=ATC
+crop_img/micro_econ_note_94_crop_26.jpg	\_}$
+crop_img/micro_econ_note_94_crop_27.jpg	P_}$
+crop_img/micro_econ_note_94_crop_28.jpg	A
+crop_img/micro_econ_note_94_crop_29.jpg	A
+crop_img/micro_econ_note_94_crop_30.jpg	(
+crop_img/micro_econ_note_94_crop_31.jpg	2
+crop_img/micro_econ_note_94_crop_32.jpg	1
+crop_img/micro_econ_note_94_crop_33.jpg	D}$
+crop_img/micro_econ_note_94_crop_34.jpg	D
+crop_img/micro_econ_note_94_crop_35.jpg	4
+crop_img/micro_econ_note_94_crop_36.jpg	1
+crop_img/micro_econ_note_94_crop_37.jpg	→
+crop_img/micro_econ_note_94_crop_38.jpg	0
+crop_img/micro_econ_note_94_crop_39.jpg	Q
+crop_img/micro_econ_note_94_crop_40.jpg	Q
+crop_img/micro_econ_note_94_crop_41.jpg	Short run .0T→eT,Q个，econ profit occurs
+crop_img/micro_econ_note_95_crop_0.jpg	Long run: new firms enter →S shift8 sight,pv, OT, zero
+crop_img/micro_econ_note_95_crop_1.jpg	econ profit,# firms
+crop_img/micro_econ_note_95_crop_2.jpg	)Demand:
+crop_img/micro_econ_note_95_crop_3.jpg	Short run
+crop_img/micro_econ_note_95_crop_4.jpg	Long run
+crop_img/micro_econ_note_95_crop_5.jpg	P
+crop_img/micro_econ_note_95_crop_6.jpg	P
+crop_img/micro_econ_note_95_crop_7.jpg	S0
+crop_img/micro_econ_note_95_crop_8.jpg	个
+crop_img/micro_econ_note_95_crop_9.jpg	B
+crop_img/micro_econ_note_95_crop_10.jpg	$_1$
+crop_img/micro_econ_note_95_crop_11.jpg	P
+crop_img/micro_econ_note_95_crop_12.jpg	A
+crop_img/micro_econ_note_95_crop_13.jpg	P
+crop_img/micro_econ_note_95_crop_14.jpg	A
+crop_img/micro_econ_note_95_crop_15.jpg	6
+crop_img/micro_econ_note_95_crop_16.jpg	B
+crop_img/micro_econ_note_95_crop_17.jpg	1
+crop_img/micro_econ_note_95_crop_18.jpg	D{}$
+crop_img/micro_econ_note_95_crop_19.jpg	$P_1}$
+crop_img/micro_econ_note_95_crop_20.jpg	D_{1$
+crop_img/micro_econ_note_95_crop_21.jpg	0o
+crop_img/micro_econ_note_95_crop_22.jpg	Do
+crop_img/micro_econ_note_95_crop_23.jpg	→
+crop_img/micro_econ_note_95_crop_24.jpg	>
+crop_img/micro_econ_note_95_crop_25.jpg	a_{，Q。
+crop_img/micro_econ_note_95_crop_26.jpg	Q
+crop_img/micro_econ_note_95_crop_27.jpg	Q
+crop_img/micro_econ_note_95_crop_28.jpg	Ch 13:
+crop_img/micro_econ_note_95_crop_29.jpg	Monopoly
+crop_img/micro_econ_note_95_crop_30.jpg	3 types of barrier to entry:
+crop_img/micro_econ_note_95_crop_31.jpg	① Natural: economies of scale enable one firm to supply the entire
+crop_img/micro_econ_note_95_crop_32.jpg	market
+crop_img/micro_econ_note_95_crop_33.jpg	2
+crop_img/micro_econ_note_95_crop_34.jpg	ownership: one firm owns a significant portion of key resource
+crop_img/micro_econ_note_95_crop_35.jpg	③
+crop_img/micro_econ_note_95_crop_36.jpg	legal: competition and entry are limited by granting of
+crop_img/micro_econ_note_95_crop_37.jpg	public franchise: exclusive right to supply a good/service (uses
+crop_img/micro_econ_note_95_crop_38.jpg	gov license: control entry into occupations/industries (med,law)
+crop_img/micro_econ_note_95_crop_39.jpg	patent: right for invention
+crop_img/micro_econ_note_95_crop_40.jpg	copyright: right granted to an author/composer for some
+crop_img/micro_econ_note_96_crop_0.jpg	artistic work
+crop_img/micro_econ_note_96_crop_1.jpg	。)
+crop_img/micro_econ_note_96_crop_2.jpg	Monopoly Price-Setting Strategies:
+crop_img/micro_econ_note_96_crop_3.jpg	. single price monopoly: all units have the same I
+crop_img/micro_econ_note_96_crop_4.jpg	unity
+crop_img/micro_econ_note_96_crop_5.jpg	diff
+crop_img/micro_econ_note_96_crop_6.jpg	P
+crop_img/micro_econ_note_96_crop_7.jpg	For Single I mono:
+crop_img/micro_econ_note_96_crop_8.jpg	) Marginal Revenue curve:
+crop_img/micro_econ_note_96_crop_9.jpg	always less than price
+crop_img/micro_econ_note_96_crop_10.jpg	P
+crop_img/micro_econ_note_96_crop_11.jpg	个
+crop_img/micro_econ_note_96_crop_12.jpg	D
+crop_img/micro_econ_note_96_crop_13.jpg	MR
+crop_img/micro_econ_note_96_crop_14.jpg	Q
+crop_img/micro_econ_note_96_crop_15.jpg	Marginal Revenue and Elasticity: monopoly never produces on inelastic
+crop_img/micro_econ_note_96_crop_16.jpg	portion of D because at inelastic
+crop_img/micro_econ_note_96_crop_17.jpg	P
+crop_img/micro_econ_note_96_crop_18.jpg	portion,T→&maller T@puichared
+crop_img/micro_econ_note_96_crop_19.jpg	个
+crop_img/micro_econ_note_96_crop_20.jpg	Ed>1$
+crop_img/micro_econ_note_96_crop_21.jpg	production happens
+crop_img/micro_econ_note_96_crop_22.jpg	Ed<1
+crop_img/micro_econ_note_96_crop_23.jpg	MR
+crop_img/micro_econ_note_96_crop_24.jpg	D
+crop_img/micro_econ_note_96_crop_25.jpg	Q
+crop_img/micro_econ_note_96_crop_26.jpg	Monopoly can decrease a and T I to T profit
+crop_img/micro_econ_note_97_crop_0.jpg	Vprofit =tR-tc
+crop_img/micro_econ_note_97_crop_1.jpg	Qmonopoly
+crop_img/micro_econ_note_97_crop_2.jpg	Q
+crop_img/micro_econ_note_97_crop_3.jpg	.) max profit occurs at MR= MC
+crop_img/micro_econ_note_97_crop_4.jpg	P
+crop_img/micro_econ_note_97_crop_5.jpg	个
+crop_img/micro_econ_note_97_crop_6.jpg	MC
+crop_img/micro_econ_note_97_crop_7.jpg	90s
+crop_img/micro_econ_note_97_crop_8.jpg	p*
+crop_img/micro_econ_note_97_crop_9.jpg	ATC
+crop_img/micro_econ_note_97_crop_10.jpg	1
+crop_img/micro_econ_note_97_crop_11.jpg	MC=MR
+crop_img/micro_econ_note_97_crop_12.jpg	0
+crop_img/micro_econ_note_97_crop_13.jpg	MR
+crop_img/micro_econ_note_97_crop_14.jpg	7
+crop_img/micro_econ_note_97_crop_15.jpg	efficient
+crop_img/micro_econ_note_97_crop_16.jpg	. p* doesn't have to →l。 because no firms can enter
+crop_img/micro_econ_note_97_crop_17.jpg	→make profit even in the long run
+crop_img/micro_econ_note_97_crop_18.jpg	A single-price monopoly produces a &maller output and charges
+crop_img/micro_econ_note_97_crop_19.jpg	higher I than perfect comp market
+crop_img/micro_econ_note_97_crop_20.jpg	) Perfect comp surplus: just like the simple market prototype)
+crop_img/micro_econ_note_97_crop_21.jpg	except s can shut down
+crop_img/micro_econ_note_98_crop_0.jpg	Q
+crop_img/micro_econ_note_98_crop_1.jpg	) Monopoly
+crop_img/micro_econ_note_98_crop_2.jpg	S
+crop_img/micro_econ_note_98_crop_3.jpg	*
+crop_img/micro_econ_note_98_crop_4.jpg	*
+crop_img/micro_econ_note_98_crop_5.jpg	f
+crop_img/micro_econ_note_98_crop_6.jpg	L
+crop_img/micro_econ_note_98_crop_7.jpg	N
+crop_img/micro_econ_note_98_crop_8.jpg	DWL
+crop_img/micro_econ_note_98_crop_9.jpg	D
+crop_img/micro_econ_note_98_crop_10.jpg	Q*
+crop_img/micro_econ_note_98_crop_11.jpg	For price dix orimination monopoly
+crop_img/micro_econ_note_98_crop_12.jpg	)& kinds of I disc:
+crop_img/micro_econ_note_98_crop_13.jpg	Digf l for diff buyer
+crop_img/micro_econ_note_98_crop_14.jpg	.Digg s for diff units of goods
+crop_img/micro_econ_note_98_crop_15.jpg	0
+crop_img/micro_econ_note_98_crop_16.jpg	Baopertier
+crop_img/micro_econ_note_98_crop_17.jpg	By getting buyer to pay I dsert to the max willingness
+crop_img/micro_econ_note_98_crop_18.jpg	→ Cap tue some Cs into fs
+crop_img/micro_econ_note_98_crop_19.jpg	→T ls and eion profit
+crop_img/micro_econ_note_99_crop_0.jpg	perfect I disc : an extreme case where each unit ins sold at max
+crop_img/micro_econ_note_99_crop_1.jpg	)
+crop_img/micro_econ_note_99_crop_2.jpg	willingness
+crop_img/micro_econ_note_99_crop_3.jpg	→ No Cs, all become LS
+crop_img/micro_econ_note_99_crop_4.jpg	.No OL → efficient
+crop_img/micro_econ_note_99_crop_5.jpg	.The more perfectly the monopoly can I disc) the more efficient
+crop_img/micro_econ_note_99_crop_6.jpg	) Regulating monopolies:
+crop_img/micro_econ_note_99_crop_7.jpg	. MC pricing : L=MC → econ loN
+crop_img/micro_econ_note_99_crop_8.jpg	. AVC pricing:L=AVC→ breakeven
+crop_img/micro_econ_note_99_crop_9.jpg	. a methods to implement AVC pricing :
+crop_img/micro_econ_note_99_crop_10.jpg	① Rate of return regulation: A firm must justify it I by
+crop_img/micro_econ_note_99_crop_11.jpg	justify its rate of return
+crop_img/micro_econ_note_99_crop_12.jpg	f cap regulation : I ceiling
+crop_img/micro_econ_note_99_crop_13.jpg	2
+crop_img/micro_econ_note_99_crop_14.jpg	Chap 14:
+crop_img/micro_econ_note_99_crop_15.jpg	Monopolistic Competition
+crop_img/micro_econ_note_99_crop_16.jpg	) Mono comp :
+crop_img/micro_econ_note_99_crop_17.jpg	. A large # firms
+crop_img/micro_econ_note_99_crop_18.jpg	producing a differentiated product
+crop_img/micro_econ_note_99_crop_19.jpg	. No barriers to entry
+crop_img/micro_econ_note_99_crop_20.jpg	)and a decision:
+crop_img/micro_econ_note_99_crop_21.jpg	 A firm in mono po comp produce like a single-price mono
+crop_img/micro_econ_note_99_crop_22.jpg	. In a short run, may earn econ profit /los/breakeven
+crop_img/micro_econ_note_99_crop_23.jpg	. In a long run) only earn breakeven (due to enter/ leave)
+crop_img/micro_econ_note_100_crop_0.jpg	.) Markup = s- MC
+crop_img/micro_econ_note_100_crop_1.jpg	For perfect comp , Markup =0
+crop_img/micro_econ_note_100_crop_2.jpg	 For mono comp)
+crop_img/micro_econ_note_100_crop_3.jpg	Markup >0
+crop_img/micro_econ_note_100_crop_4.jpg	) Excess capacity
+crop_img/micro_econ_note_100_crop_5.jpg	Qesf
+crop_img/micro_econ_note_100_crop_6.jpg	-Qprod ( es when I=ATC)
+crop_img/micro_econ_note_100_crop_7.jpg	=1
+crop_img/micro_econ_note_100_crop_8.jpg	=Qprod
+crop_img/micro_econ_note_100_crop_9.jpg	 For mono comp)
+crop_img/micro_econ_note_100_crop_10.jpg	Qeff
+crop_img/micro_econ_note_100_crop_11.jpg	∠Q
+crop_img/micro_econ_note_100_crop_12.jpg	prod
+crop_img/micro_econ_note_100_crop_13.jpg	P
+crop_img/micro_econ_note_100_crop_14.jpg	MC
+crop_img/micro_econ_note_100_crop_15.jpg	p
+crop_img/micro_econ_note_100_crop_16.jpg	MC
+crop_img/micro_econ_note_100_crop_17.jpg	ATC
+crop_img/micro_econ_note_100_crop_18.jpg	个
+crop_img/micro_econ_note_100_crop_19.jpg	ATC
+crop_img/micro_econ_note_100_crop_20.jpg	fsell
+crop_img/micro_econ_note_100_crop_21.jpg	lsll
+crop_img/micro_econ_note_100_crop_22.jpg	D=MR
+crop_img/micro_econ_note_100_crop_23.jpg	I markup
+crop_img/micro_econ_note_100_crop_24.jpg	大
+crop_img/micro_econ_note_100_crop_25.jpg	=be88
+crop_img/micro_econ_note_100_crop_26.jpg	lest
+crop_img/micro_econ_note_100_crop_27.jpg	MRi
+crop_img/micro_econ_note_100_crop_28.jpg	D
+crop_img/micro_econ_note_100_crop_29.jpg	>
+crop_img/micro_econ_note_100_crop_30.jpg	aeff
+crop_img/micro_econ_note_100_crop_31.jpg	Q
+crop_img/micro_econ_note_100_crop_32.jpg	aprod
+crop_img/micro_econ_note_100_crop_33.jpg	Q
+crop_img/micro_econ_note_100_crop_34.jpg	aprod
+crop_img/micro_econ_note_100_crop_35.jpg	=aegs
+crop_img/micro_econ_note_100_crop_36.jpg	) Efficiency :
+crop_img/micro_econ_note_100_crop_37.jpg	when MSB=MSC
+crop_img/micro_econ_note_100_crop_38.jpg	MSB =L
+crop_img/micro_econ_note_100_crop_39.jpg	. MSC = MC
+crop_img/micro_econ_note_100_crop_40.jpg	.And 2>MC
+crop_img/micro_econ_note_100_crop_41.jpg	But product variety comes w/a cost→ Cvar
+crop_img/micro_econ_note_100_crop_42.jpg	⇒Igl=MC+CorEf
+crop_img/micro_econ_note_100_crop_43.jpg	o therwise not eff
+crop_img/micro_econ_note_101_crop_0.jpg	Oligopoly
+crop_img/micro_econ_note_101_crop_1.jpg	Chap 15:
+crop_img/micro_econ_note_101_crop_2.jpg	) Oligopoly:
+crop_img/micro_econ_note_101_crop_3.jpg	. A small # firm&
+crop_img/micro_econ_note_101_crop_4.jpg	 Natural or legal barriers to entry
+crop_img/micro_econ_note_101_crop_5.jpg	. Identical / differentiated product
+crop_img/micro_econ_note_101_crop_6.jpg	. Compete on I,a, and marketing
+crop_img/micro_econ_note_101_crop_7.jpg	 Duopoly: market w/ only 2 firm
+crop_img/micro_econ_note_101_crop_8.jpg	)2ro pertiey:
+crop_img/micro_econ_note_101_crop_9.jpg	.Interdependence : I and decision of firms affect the result
+crop_img/micro_econ_note_101_crop_10.jpg	.Temptation to cooperate ; firms can together cooperate → form
+crop_img/micro_econ_note_101_crop_11.jpg	a cartel, act like monopoly
+crop_img/micro_econ_note_101_crop_12.jpg	cartel
+crop_img/micro_econ_note_101_crop_13.jpg	a group of firms colluding to limit output and Te
+crop_img/micro_econ_note_101_crop_15.jpg	to beat econ profit
+crop_img/micro_econ_note_101_crop_16.jpg	game theory: a set of tools for studying strategic behavior
+crop_img/micro_econ_note_101_crop_17.jpg	) game: have rules) strategies, payoffs, and outcome
+crop_img/micro_econ_note_101_crop_18.jpg	) the prisoner's Dilemma: d prisoners committed a crime and are
+crop_img/micro_econ_note_101_crop_19.jpg	put into d separate rooms for questioning
+crop_img/micro_econ_note_101_crop_20.jpg	Rules:
+crop_img/micro_econ_note_101_crop_21.jpg	If both confess, each receives 5-year sentence
+crop_img/micro_econ_note_101_crop_22.jpg	If one confesses and one doesn't, the confessed receives 1-year
+crop_img/micro_econ_note_101_crop_23.jpg	sentence, and the other receives 10-year sentence
+crop_img/micro_econ_note_101_crop_24.jpg	If both deny, each receives 6-year sentence
+crop_img/micro_econ_note_102_crop_0.jpg	strategies: confess/deny
+crop_img/micro_econ_note_102_crop_1.jpg	. outcomes
+crop_img/micro_econ_note_102_crop_2.jpg	. Both confess: 5-years each
+crop_img/micro_econ_note_102_crop_3.jpg	deny: 6-years
+crop_img/micro_econ_note_102_crop_4.jpg	。
+crop_img/micro_econ_note_102_crop_5.jpg	A confesses, B denies: A→1 year, B→10 years
+crop_img/micro_econ_note_102_crop_6.jpg	A denies, B confesses: A→10 years, B→1 year
+crop_img/micro_econ_note_102_crop_7.jpg	.payoff matrix: show the outcome for every possible action done
+crop_img/micro_econ_note_102_crop_8.jpg	by a player given the action of the other
+crop_img/micro_econ_note_102_crop_9.jpg	A's strategy
+crop_img/micro_econ_note_102_crop_10.jpg	C
+crop_img/micro_econ_note_102_crop_11.jpg	D
+crop_img/micro_econ_note_102_crop_12.jpg	C
+crop_img/micro_econ_note_102_crop_13.jpg	A
+crop_img/micro_econ_note_102_crop_14.jpg	A.
+crop_img/micro_econ_note_102_crop_15.jpg	10
+crop_img/micro_econ_note_102_crop_16.jpg	5
+crop_img/micro_econ_note_102_crop_17.jpg	B's strategy
+crop_img/micro_econ_note_102_crop_18.jpg	B:
+crop_img/micro_econ_note_102_crop_19.jpg	B: 1
+crop_img/micro_econ_note_102_crop_20.jpg	6
+crop_img/micro_econ_note_102_crop_21.jpg	A: 1
+crop_img/micro_econ_note_102_crop_22.jpg	A: 2
+crop_img/micro_econ_note_102_crop_23.jpg	D
+crop_img/micro_econ_note_102_crop_24.jpg	B: 10
+crop_img/micro_econ_note_102_crop_25.jpg	B: 2
+crop_img/micro_econ_note_102_crop_26.jpg	Nash equilibrium: each player takes the best possible action
+crop_img/micro_econ_note_102_crop_27.jpg	given the action of the other player
+crop_img/micro_econ_note_102_crop_28.jpg	) collusive agreement: agreement between firms to form a cartel
+crop_img/micro_econ_note_102_crop_29.jpg	) cheat: one tries to ↓ profit of other seller and ↑ profit
+crop_img/micro_econ_note_102_crop_30.jpg	of their own
+crop_img/micro_econ_note_102_crop_31.jpg	Note: If game repeated, cooperative equilibrium can occur
+crop_img/micro_econ_note_102_crop_32.jpg	) Mindsets:
+crop_img/micro_econ_note_102_crop_33.jpg	①Tit-for-tat: cooperate if the other cooperated last time
+crop_img/showcase_website_prepare_105_crop_0.jpg	Roles & Contributions
+crop_img/showcase_website_prepare_105_crop_1.jpg	Duc Minho - Scrum Master
+crop_img/showcase_website_prepare_105_crop_2.jpg	. Divide Tasks & assign deadline
+crop_img/showcase_website_prepare_105_crop_3.jpg	Implement database model using
+crop_img/showcase_website_prepare_105_crop_4.jpg	Implement reset password
+crop_img/showcase_website_prepare_105_crop_5.jpg	Adjust admin page
+crop_img/showcase_website_prepare_105_crop_6.jpg	Helped making the showcase Website
+crop_img/showcase_website_prepare_105_crop_7.jpg	John Thai - Back-End
+crop_img/showcase_website_prepare_105_crop_8.jpg	Implement user authentication account assign
+crop_img/showcase_website_prepare_105_crop_9.jpg	login page, log out functionality
+crop_img/showcase_website_prepare_105_crop_10.jpg	Implement the purchase functionality
+crop_img/showcase_website_prepare_105_crop_11.jpg	the orders page
+crop_img/showcase_website_prepare_105_crop_12.jpg	Implement
+crop_img/showcase_website_prepare_105_crop_13.jpg	Helped making the showcase website
+crop_img/showcase_website_prepare_105_crop_14.jpg	Sunny Lin - Front-End
+crop_img/showcase_website_prepare_105_crop_15.jpg	operations of
+crop_img/showcase_website_prepare_105_crop_16.jpg	. Implement the base template
+crop_img/showcase_website_prepare_105_crop_17.jpg	Implement the Creating, Reading, Updating, Deleting (CRUD)
+crop_img/showcase_website_prepare_105_crop_18.jpg	movie
+crop_img/showcase_website_prepare_105_crop_19.jpg	review model
+crop_img/showcase_website_prepare_105_crop_20.jpg	. Make the showcase video for the showcase website
+crop_img/showcase_website_prepare_105_crop_21.jpg	Ierac Kwook - Full-Stack
+crop_img/showcase_website_prepare_105_crop_22.jpg	Implement the cart app
+crop_img/showcase_website_prepare_105_crop_23.jpg	Implement the CRUD
+crop_img/showcase_website_prepare_105_crop_24.jpg	of movie cart
+crop_img/showcase_website_prepare_105_crop_25.jpg	Implement the order and item model
+crop_img/showcase_website_prepare_105_crop_26.jpg	Helped make the showcase website
+crop_img/showcase_website_prepare_106_crop_0.jpg	Thinh Nguyen - Full-stack
+crop_img/showcase_website_prepare_106_crop_1.jpg	. Implement the movies app (listing movies) enable user to click and
+crop_img/showcase_website_prepare_106_crop_2.jpg	see their data
+crop_img/showcase_website_prepare_106_crop_3.jpg	Update
+crop_img/showcase_website_prepare_106_crop_4.jpg	the movie listing page and individual movie pages
+crop_img/showcase_website_prepare_106_crop_5.jpg	with data from database
+crop_img/showcase_website_prepare_106_crop_6.jpg	Implement a search functionality
+crop_img/showcase_website_prepare_106_crop_7.jpg	Helped make the showcase website
+crop_img/showcase_website_prepare_106_crop_8.jpg	Description:
+crop_img/showcase_website_prepare_106_crop_9.jpg	How your team follows scrum and the design decision behind your
+crop_img/showcase_website_prepare_106_crop_10.jpg	solutions (principles, patterns, etc.). Use diagram as tools to
+crop_img/showcase_website_prepare_106_crop_11.jpg	communicate your rationale
+crop_img/showcase_website_prepare_106_crop_12.jpg	• Discussion
+crop_img/showcase_website_prepare_106_crop_13.jpg	. We discuss and finalize what our movie store should look like
+crop_img/showcase_website_prepare_106_crop_14.jpg	Pages
+crop_img/showcase_website_prepare_106_crop_15.jpg	●
+crop_img/showcase_website_prepare_106_crop_16.jpg	Models
+crop_img/showcase_website_prepare_106_crop_17.jpg	Functionalities
+crop_img/showcase_website_prepare_106_crop_18.jpg	etc.
+crop_img/showcase_website_prepare_106_crop_19.jpg	●
+crop_img/showcase_website_prepare_106_crop_20.jpg	. Plan out major stages of the project:
+crop_img/showcase_website_prepare_106_crop_21.jpg	. List small tasks on scrum board and assign deadlines every week
+crop_img/showcase_website_prepare_106_crop_22.jpg	When we stuck at some point, we say it out during meeting
+crop_img/showcase_website_prepare_106_crop_23.jpg	then together we find a way to resolve it. Usually, the
+crop_img/showcase_website_prepare_106_crop_24.jpg	solution comes from the textbook and YouTube.
+crop_img/software_description_214_crop_0.jpg	User stories for a GT Blog Website
+crop_img/software_description_214_crop_1.jpg	①As a user I want to see the information about the GT Blog
+crop_img/software_description_214_crop_2.jpg	so I can understand the app's purpose
+crop_img/software_description_214_crop_4.jpg	As a user, I want to register an account using my GT
+crop_img/software_description_214_crop_5.jpg	username
+crop_img/software_description_214_crop_6.jpg	3
+crop_img/software_description_214_crop_7.jpg	As a user, I want to log in so that I can access my account's data
+crop_img/software_description_214_crop_8.jpg	4
+crop_img/software_description_214_crop_9.jpg	As a user, I want to see the list of blogs other students
+crop_img/software_description_214_crop_10.jpg	made with categorization keywords channel, inch
+crop_img/software_description_214_crop_11.jpg	4CULC”,…
+crop_img/software_description_214_crop_12.jpg	5
+crop_img/software_description_214_crop_13.jpg	As a user, I want to search blogs based on categorization
+crop_img/software_description_214_crop_14.jpg	key word, author name, blog title, date
+crop_img/software_description_214_crop_15.jpg	As a user, I want to reset my password so that I can regain
+crop_img/software_description_214_crop_16.jpg	⑥
+crop_img/software_description_214_crop_17.jpg	access to my account if I forget it
+crop_img/software_description_214_crop_18.jpg	As a user, I want to read what others comment on a blog
+crop_img/software_description_214_crop_19.jpg	As a user, I want to make comments on others' blogs
+crop_img/software_description_214_crop_20.jpg	8
+crop_img/software_description_214_crop_21.jpg	9
+crop_img/software_description_214_crop_22.jpg	As a user, I want to make my blog private only myself
+crop_img/software_description_214_crop_23.jpg	can read them
+crop_img/software_description_214_crop_24.jpg	As a user, I want to insert images into my blog
+crop_img/software_description_214_crop_25.jpg	11
+crop_img/software_description_214_crop_26.jpg	As a user, I want to change my profile picture
+crop_img/software_design_cheatsheet_219_crop_0.jpg	SOLID:
+crop_img/software_design_cheatsheet_219_crop_1.jpg	Design principle: guideline for designing software based on OO
+crop_img/software_design_cheatsheet_219_crop_2.jpg	.Aims: understandability, extendability, maintainability
+crop_img/software_design_cheatsheet_219_crop_3.jpg	.Avoid: rigidity, fragility, immobility, and viscosity
+crop_img/software_design_cheatsheet_219_crop_4.jpg	Single Responsibility (S): Each class only has 1 job
+crop_img/software_design_cheatsheet_219_crop_5.jpg	open/closed (O): open for extension, closed for modification
+crop_img/software_design_cheatsheet_219_crop_6.jpg	.Meaning: We can add new functionality without altering old code
+crop_img/software_design_cheatsheet_219_crop_7.jpg	Liskov Substitution (L): object of a superclass can be replaced by its
+crop_img/software_design_cheatsheet_219_crop_8.jpg	subclass objects without damaging the program
+crop_img/software_design_cheatsheet_219_crop_9.jpg	Interface Segregation (I): Don't force the clients to depend on things they don't use
+crop_img/software_design_cheatsheet_219_crop_10.jpg	)
+crop_img/software_design_cheatsheet_219_crop_11.jpg	Dependency Inversion (D): High-level classes don't depend on low-level ones
+crop_img/software_design_cheatsheet_219_crop_12.jpg	GRASP: principles
+crop_img/software_design_cheatsheet_219_crop_13.jpg	focus on assigning responsibilities to classes and objects
+crop_img/software_design_cheatsheet_219_crop_14.jpg	Creator (pattern): object created by the class that has the most info to create it
+crop_img/software_design_cheatsheet_219_crop_15.jpg	.When? aggregation or containment, tracking, close use initialization
+crop_img/software_design_cheatsheet_219_crop_16.jpg	80
+crop_img/software_design_cheatsheet_219_crop_17.jpg	data
+crop_img/software_design_cheatsheet_219_crop_18.jpg	Information Expert: assign responsibility to the class that has the essential info to create it
+crop_img/software_design_cheatsheet_219_crop_19.jpg	.Note: consider the type of support and what info are needed
+crop_img/software_design_cheatsheet_219_crop_20.jpg	Low Coupling
+crop_img/software_design_cheatsheet_219_crop_21.jpg	: reduce dependencies between classes as much as possible
+crop_img/software_design_cheatsheet_219_crop_22.jpg	.How? use interfaces, abstract class, dependency injection, composition > inheritance,
+crop_img/software_design_cheatsheet_219_crop_23.jpg	behavior encapsulation, avoid bidirectional relationship
+crop_img/software_design_cheatsheet_220_crop_0.jpg	High Cohesion: Similar to S in SOLID
+crop_img/software_design_cheatsheet_220_crop_1.jpg	,
+crop_img/software_design_cheatsheet_220_crop_2.jpg	Controller: Keep the UI separate from the Model
+crop_img/software_design_cheatsheet_220_crop_3.jpg	.How? when handling a system event, assign it to a non-UI class that
+crop_img/software_design_cheatsheet_220_crop_4.jpg	helps the whole system / a use case scenario the system responds
+crop_img/software_design_cheatsheet_220_crop_5.jpg	Polymorphism: Flexible and dynamic behavior in an application
+crop_img/software_design_cheatsheet_220_crop_6.jpg	.Essential for low coupling
+crop_img/software_design_cheatsheet_220_crop_7.jpg	Pure Fabrication: assign responsibility to classes that don't represent a concept
+crop_img/software_design_cheatsheet_220_crop_8.jpg	When? when we cannot find a solution within the problem domain
+crop_img/software_design_cheatsheet_220_crop_9.jpg	middle party
+crop_img/software_design_cheatsheet_220_crop_10.jpg	) Indirection: Introduce an intermediate class or object to mediate between classes
+crop_img/software_design_cheatsheet_220_crop_11.jpg	.When? when coupling is high
+crop_img/software_design_cheatsheet_220_crop_12.jpg	. Similar to "Don't talk to strangers"
+crop_img/software_design_cheatsheet_220_crop_13.jpg	Protected Variation: Protecting elements from the change of others
+crop_img/software_design_cheatsheet_220_crop_14.jpg	.How? one element's change doesn't make others change
+crop_img/software_design_cheatsheet_220_crop_15.jpg	Refactoring: small and technique to reorganize and understand
+crop_img/software_design_cheatsheet_220_crop_16.jpg	maintain, improving design without changing functionality
+crop_img/software_design_cheatsheet_220_crop_17.jpg	. Key feature: ensure program works at every detailed step
+crop_img/software_design_cheatsheet_220_crop_18.jpg	why? Regular change, design improvement, programmer's topping
+crop_img/software_design_cheatsheet_220_crop_19.jpg	Outcome: make program more flexible
+crop_img/software_design_cheatsheet_220_crop_20.jpg	Ex: renaming, collapse hierarchy, consolidate/decompose conditions
+crop_img/software_design_cheatsheet_220_crop_21.jpg	(ex: merge)
+crop_img/software_design_cheatsheet_220_crop_22.jpg	(ex: combine conditions that → same result
+crop_img/software_design_cheatsheet_220_crop_23.jpg	· replace complex conditions by method)
+crop_img/software_design_cheatsheet_220_crop_24.jpg	extract class/method
+crop_img/software_design_cheatsheet_220_crop_25.jpg	(ex: replace code fragment by method)
+crop_img/software_design_cheatsheet_220_crop_26.jpg	(ex: a class doing ≥ a work → make a new class
+crop_img/software_design_cheatsheet_221_crop_0.jpg	.When? when adding a new feature/review code/fixing bug
+crop_img/software_design_cheatsheet_221_crop_1.jpg	.When not? broken code / close deadline / no need to
+crop_img/software_design_cheatsheet_221_crop_2.jpg	Code Smell: A surface indication that usually corresponds to a deeper problem in systems
+crop_img/software_design_cheatsheet_221_crop_3.jpg	.Usually found when refactoring / examining code
+crop_img/software_design_cheatsheet_221_crop_4.jpg	.How come? rushed design/technical debt (lazy list → more work
+crop_img/software_design_cheatsheet_221_crop_5.jpg	disregard
+crop_img/software_design_cheatsheet_221_crop_6.jpg	later)
+crop_img/software_design_cheatsheet_221_crop_7.jpg	Right way: use best practices + develop a design that can scale
+crop_img/software_design_cheatsheet_221_crop_8.jpg	Fast way:
+crop_img/software_design_cheatsheet_221_crop_9.jpg	"hacked together design) faster
+crop_img/software_design_cheatsheet_221_crop_10.jpg	identical
+crop_img/software_design_cheatsheet_221_crop_11.jpg	(group of two)
+crop_img/software_design_cheatsheet_221_crop_12.jpg	Bloaters: Something too large and out of control
+crop_img/software_design_cheatsheet_221_crop_13.jpg	(>10 lines)
+crop_img/software_design_cheatsheet_221_crop_14.jpg	.sign: contain long / duplicated code, long data/method, data clump;
+crop_img/software_design_cheatsheet_221_crop_15.jpg	long parameter list
+crop_img/software_design_cheatsheet_221_crop_16.jpg	. How come? devs
+crop_img/software_design_cheatsheet_221_crop_17.jpg	may be tempted to put new features into an
+crop_img/software_design_cheatsheet_221_crop_18.jpg	existing class
+crop_img/software_design_cheatsheet_221_crop_19.jpg	.statement: extract class/sub-class/method; try deleting a number
+crop_img/software_design_cheatsheet_221_crop_20.jpg	to see if code still makes sense, extract data; breakup algorithm)
+crop_img/software_design_cheatsheet_221_crop_21.jpg	use methods) pass the whole object as data (preserve whole
+crop_img/software_design_cheatsheet_221_crop_22.jpg	object)
+crop_img/software_design_cheatsheet_221_crop_23.jpg	.OO Abusers: so don't fully exploit OO designs
+crop_img/software_design_cheatsheet_221_crop_24.jpg	.Sign: complex with sequence; refactored because
+crop_img/software_design_cheatsheet_221_crop_25.jpg	subclass refactored to use all parent's methods)
+crop_img/software_design_cheatsheet_221_crop_26.jpg	.why? For refused bequest, don't be tempted to use inheritance
+crop_img/software_design_cheatsheet_221_crop_27.jpg	to reuseability
+crop_img/software_design_cheatsheet_221_crop_28.jpg	.Theat ment : Extract method) polymorphism j push down method
+crop_img/software_design_cheatsheet_221_crop_29.jpg	use interface , eliminate inheritance
+crop_img/software_design_cheatsheet_222_crop_0.jpg	change Prevent rust that hinders changing /upgrading
+crop_img/software_design_cheatsheet_222_crop_1.jpg	(Shotgun surgery)
+crop_img/software_design_cheatsheet_222_crop_2.jpg	.sign: make modifi regs make small changes to many others j
+crop_img/software_design_cheatsheet_222_crop_3.jpg	many changes made to only one case (Divergent change)
+crop_img/software_design_cheatsheet_222_crop_4.jpg	.Why? Foientage: cost copy paste
+crop_img/software_design_cheatsheet_222_crop_5.jpg	.Treatment : Combine to a single class ; Extract class/method
+crop_img/software_design_cheatsheet_222_crop_6.jpg	Dispensable
+crop_img/software_design_cheatsheet_222_crop_7.jpg	:unnecessary things
+crop_img/software_design_cheatsheet_222_crop_8.jpg	• Sign: duplicated codes ; lazy data j data clump
+crop_img/software_design_cheatsheet_222_crop_9.jpg	.Why? For lazy class, a class may become very small after several
+crop_img/software_design_cheatsheet_222_crop_10.jpg	refactoring, or it 's designed for future dev that is never done
+crop_img/software_design_cheatsheet_222_crop_11.jpg	. Treatment: Extract method ; Inline class ; Move/Extract method,
+crop_img/software_design_cheatsheet_222_crop_12.jpg	encapsulation
+crop_img/software_design_cheatsheet_222_crop_13.jpg	Coupler : closely connected routines /modules
+crop_img/software_design_cheatsheet_222_crop_14.jpg	(Feature envy)
+crop_img/software_design_cheatsheet_222_crop_15.jpg	.sign: a method seems more interested in a class than the one it's in)
+crop_img/software_design_cheatsheet_222_crop_16.jpg	classes know too much about each other; class only do one action and
+crop_img/software_design_cheatsheet_222_crop_17.jpg	1
+crop_img/software_design_cheatsheet_222_crop_18.jpg	J
+crop_img/software_design_cheatsheet_222_crop_19.jpg	delegate work to other classes
+crop_img/software_design_cheatsheet_222_crop_20.jpg	middle
+crop_img/software_design_cheatsheet_222_crop_21.jpg	Inappropriate intimacy
+crop_img/software_design_cheatsheet_222_crop_22.jpg	man
+crop_img/software_design_cheatsheet_222_crop_23.jpg	Why? For middle man, moving too much from a class resulting in
+crop_img/software_design_cheatsheet_222_crop_24.jpg	it can only delegate work
+crop_img/software_design_cheatsheet_222_crop_25.jpg	.Treatment: move method j move method/field change "association
+crop_img/software_design_cheatsheet_222_crop_26.jpg	to"once=;inline class
+crop_img/software_design_cheatsheet_222_crop_27.jpg	Design pattern: typical solutions to common problems in software design
+crop_img/software_design_cheatsheet_222_crop_28.jpg	(like a blueprint if algo is like a recipe)
+crop_img/software_design_cheatsheet_223_crop_0.jpg	Category of Lat
+crop_img/software_design_cheatsheet_223_crop_1.jpg	-Generational fact: try to create suitable object→flexibility and code reuse
+crop_img/software_design_cheatsheet_223_crop_2.jpg	Structural lat : explain how to assemble & carry larger structure
+crop_img/software_design_cheatsheet_223_crop_3.jpg	(still flexible and
+crop_img/software_design_cheatsheet_223_crop_4.jpg	efficient)
+crop_img/software_design_cheatsheet_223_crop_5.jpg	Behavioral pattern: algorithm & assign of resp of object
+crop_img/software_design_cheatsheet_223_crop_6.jpg	Singleton lat: Ensures we only one instance of a class ever gets
+crop_img/software_design_cheatsheet_223_crop_7.jpg	created and all one global way to access it
+crop_img/software_design_cheatsheet_223_crop_8.jpg	.Components: private constructor public static method, private static instance
+crop_img/software_design_cheatsheet_223_crop_9.jpg	(to access)
+crop_img/software_design_cheatsheet_223_crop_10.jpg	(store one
+crop_img/software_design_cheatsheet_223_crop_11.jpg	variable
+crop_img/software_design_cheatsheet_223_crop_12.jpg	instance
+crop_img/software_design_cheatsheet_223_crop_13.jpg	only save an instance
+crop_img/software_design_cheatsheet_223_crop_14.jpg	if null
+crop_img/software_design_cheatsheet_223_crop_15.jpg	Strategy Lat:  Beh define a family of algo by putting them in separate
+crop_img/software_design_cheatsheet_223_crop_16.jpg	classes and making their objects interchangeable
+crop_img/software_design_cheatsheet_223_crop_17.jpg	. To maintain & grow
+crop_img/software_design_cheatsheet_223_crop_18.jpg	(components :A strategy interface includes # concrete strategies)
+crop_img/software_design_cheatsheet_223_crop_19.jpg	to use
+crop_img/software_design_cheatsheet_223_crop_20.jpg	Factory Method lat: Ensures, using a factory method to create instances of
+crop_img/software_design_cheatsheet_223_crop_21.jpg	a class instead of directly create them
+crop_img/software_design_cheatsheet_223_crop_22.jpg	.Why? changing the type of object used can be challenging. We can
+crop_img/software_design_cheatsheet_223_crop_23.jpg	decouple instance creation using factory method
+crop_img/software_design_cheatsheet_223_crop_24.jpg	.Components: Interface product includes # concrete products a creator
+crop_img/software_design_cheatsheet_223_crop_25.jpg	class that is inherited by concrete creator class or used to each concrete
+crop_img/software_design_cheatsheet_223_crop_26.jpg	product
+crop_img/software_design_cheatsheet_223_crop_27.jpg	Observer lat: Ensures, define a subscription mechanism to have multiple
+crop_img/software_design_cheatsheet_223_crop_28.jpg	events issued by the “publisher" and multiple "observer" notified
+crop_img/software_design_cheatsheet_223_crop_29.jpg	.Why? Sometimes a change to y needed to be notified to all
+crop_img/software_design_cheatsheet_223_crop_30.jpg	other classes
+crop_img/software_design_cheatsheet_224_crop_0.jpg	Component: publisher class that holds a list of subscribers, and
+crop_img/software_design_cheatsheet_224_crop_1.jpg	concrete subscriber classes (implements the interface Subscriber)
+crop_img/software_design_cheatsheet_224_crop_2.jpg	Composite lat: Ensures, all about creating true-like structure of objects.
+crop_img/software_design_cheatsheet_224_crop_3.jpg	Treat individual objects and compositions uniformly
+crop_img/software_design_cheatsheet_224_crop_4.jpg	components : delegate
+crop_img/software_design_cheatsheet_224_crop_5.jpg	To all work to leaf
+crop_img/software_design_cheatsheet_224_crop_6.jpg	. Components: interface Component, extended by
+crop_img/software_design_cheatsheet_224_crop_7.jpg	V leaf: do all the work
+crop_img/software_design_cheatsheet_224_crop_8.jpg	Visitor lat : Ensures, helps add operations to objects without altering
+crop_img/software_design_cheatsheet_224_crop_9.jpg	those objects themselves (use an external class for this)
+crop_img/software_design_cheatsheet_224_crop_10.jpg	• Component: Interface visitor, # concrete visitor classes implement Visitor
+crop_img/software_design_cheatsheet_224_crop_11.jpg	# Concrete element used to each visitor class implements interface Element
+crop_img/software_design_cheatsheet_224_crop_12.jpg	Decorator fact: Ensures, helps add features or behaviors to objects
+crop_img/software_design_cheatsheet_224_crop_13.jpg	without changing the object's original class
+crop_img/software_design_cheatsheet_224_crop_14.jpg	• Components : a Notifier class
+crop_img/software_design_cheatsheet_224_crop_15.jpg	Base Decorator (where we will add features)
+crop_img/software_design_cheatsheet_224_crop_16.jpg	Concrete Notifiers inherited from Base Decorator
+crop_img/software_design_cheatsheet_224_crop_17.jpg	Why avoid an existing open
+crop_img/software_design_cheatsheet_224_crop_18.jpg	lnin
+crop_img/software_design_cheatsheet_224_crop_19.jpg	'
+crop_img/software_design_cheatsheet_224_crop_20.jpg	Client
+crop_img/software_design_cheatsheet_224_crop_21.jpg	interface
+crop_img/software_design_cheatsheet_224_crop_22.jpg	DataSource
+crop_img/software_design_cheatsheet_224_crop_23.jpg	+writeData(data)
+crop_img/software_design_cheatsheet_224_crop_24.jpg	+readData()
+crop_img/software_design_cheatsheet_224_crop_25.jpg	4
+crop_img/software_design_cheatsheet_224_crop_26.jpg	FileDataSource
+crop_img/software_design_cheatsheet_224_crop_27.jpg	DataSourceDecorator
+crop_img/software_design_cheatsheet_224_crop_28.jpg	-filename
+crop_img/software_design_cheatsheet_224_crop_29.jpg	-wrappee: DataSource
+crop_img/software_design_cheatsheet_224_crop_30.jpg	+FileDataSource(filename)
+crop_img/software_design_cheatsheet_224_crop_31.jpg	+DataSourceDecorator(s:DataSource)
+crop_img/software_design_cheatsheet_224_crop_32.jpg	+writeData(data)
+crop_img/software_design_cheatsheet_224_crop_33.jpg	+writeData(data)
+crop_img/software_design_cheatsheet_224_crop_34.jpg	readData()
+crop_img/software_design_cheatsheet_224_crop_35.jpg	+readData()
+crop_img/software_design_cheatsheet_224_crop_36.jpg	4
+crop_img/software_design_cheatsheet_224_crop_37.jpg	Encryption
+crop_img/software_design_cheatsheet_224_crop_38.jpg	Compression
+crop_img/software_design_cheatsheet_224_crop_39.jpg	Decorator
+crop_img/software_design_cheatsheet_224_crop_40.jpg	Decorator
+crop_img/software_design_cheatsheet_224_crop_41.jpg	.
+crop_img/software_design_cheatsheet_224_crop_42.jpg	writeData(data)
+crop_img/software_design_cheatsheet_224_crop_43.jpg	+writeData(data)
+crop_img/software_design_cheatsheet_224_crop_44.jpg	+readData()
+crop_img/software_design_cheatsheet_224_crop_45.jpg	+readData()
+crop_img/software_design_cheatsheet_225_crop_0.jpg	Software Anre ment & Testing:
+crop_img/software_design_cheatsheet_225_crop_1.jpg	) Dynamic Verification: test sys until it fail (executing code in a
+crop_img/software_design_cheatsheet_225_crop_2.jpg	runtime env), include various levels
+crop_img/software_design_cheatsheet_225_crop_3.jpg	static verification: examining code wl out executing it. Use tool to
+crop_img/software_design_cheatsheet_225_crop_4.jpg	analyze code, Can be performed very early on. Doesn't tag runtime env
+crop_img/software_design_cheatsheet_225_crop_5.jpg	on compiled code
+crop_img/software_design_cheatsheet_225_crop_6.jpg	) Inspection/review/walk through:
+crop_img/software_design_cheatsheet_225_crop_7.jpg	Human activity) group-based + manual
+crop_img/software_design_cheatsheet_225_crop_8.jpg	Inspection: formal checklist + moderation
+crop_img/software_design_cheatsheet_225_crop_9.jpg	Review: less formal + peers
+crop_img/software_design_cheatsheet_225_crop_10.jpg	Walk through:
+crop_img/software_design_cheatsheet_225_crop_11.jpg	informal + author
+crop_img/software_design_cheatsheet_225_crop_12.jpg	Formal verification: Math -exhaustive can be time-consuming + expensive
+crop_img/software_design_cheatsheet_225_crop_13.jpg	outside orga
+crop_img/software_design_cheatsheet_225_crop_14.jpg	outside orga
+crop_img/software_design_cheatsheet_225_crop_15.jpg	within orga
+crop_img/software_design_cheatsheet_225_crop_16.jpg	within orga
+crop_img/software_design_cheatsheet_225_crop_17.jpg	) Testing stages:
+crop_img/software_design_cheatsheet_225_crop_18.jpg	Dev Test α Test β Test Product Release
+crop_img/software_design_cheatsheet_225_crop_19.jpg	(open box)
+crop_img/software_design_cheatsheet_225_crop_20.jpg	(black box)
+crop_img/software_design_cheatsheet_225_crop_21.jpg	) Testing technique
+crop_img/software_design_cheatsheet_225_crop_22.jpg	opaque box Test
+crop_img/software_design_cheatsheet_225_crop_23.jpg	Clear Box Test
+crop_img/software_design_cheatsheet_225_crop_24.jpg	) Test Driven Development (TDD): Test written before code) and ~ do
+crop_img/software_design_cheatsheet_225_crop_25.jpg	production code have test unit
+crop_img/software_design_cheatsheet_225_crop_26.jpg	. Rule: make it fail
+crop_img/software_design_cheatsheet_225_crop_27.jpg	make it work (as simply as possible)
+crop_img/software_design_cheatsheet_225_crop_28.jpg	make it better (refactor)
+crop_img/software_design_cheatsheet_225_crop_29.jpg	Run Test → New req → Write new test → Run Test
+crop_img/software_design_cheatsheet_225_crop_30.jpg	) Test Cycle:
+crop_img/software_design_cheatsheet_225_crop_31.jpg	write new
+crop_img/software_design_cheatsheet_225_crop_32.jpg	refactor to run test
+crop_img/software_design_cheatsheet_225_crop_33.jpg	code
+crop_img/software_design_cheatsheet_225_crop_34.jpg	AT dev disciplines
+crop_img/software_design_cheatsheet_225_crop_35.jpg	a provide increment al specification
+crop_img/software_design_cheatsheet_225_crop_36.jpg	) Why TDD?
+crop_img/software_design_cheatsheet_225_crop_37.jpg	④个 confidence while changing
+crop_img/software_design_cheatsheet_225_crop_38.jpg	Avoid regression
+crop_img/software_design_cheatsheet_225_crop_39.jpg	3
+crop_img/software_design_cheatsheet_225_crop_40.jpg	e2ok
+crop_img/software_design_principles_cheatsheet_172_crop_0.jpg	SOLID:
+crop_img/software_design_principles_cheatsheet_172_crop_1.jpg	Design principle: guideline for designing software based on oo
+crop_img/software_design_principles_cheatsheet_172_crop_2.jpg	.Aim: understand ability, extendability, maintenance
+crop_img/software_design_principles_cheatsheet_172_crop_3.jpg	.Avoid: rigidity fragility immobility and viscosity
+crop_img/software_design_principles_cheatsheet_172_crop_4.jpg	Single Responsibility (s): Each class only has 1 job
+crop_img/software_design_principles_cheatsheet_172_crop_5.jpg	open/closed(o): open for extension, closed for modification
+crop_img/software_design_principles_cheatsheet_172_crop_6.jpg	.Meaning we can add new functionality without altering old code
+crop_img/software_design_principles_cheatsheet_172_crop_7.jpg	Liskov Substitution (l): object of a superclass can be replaced by its
+crop_img/software_design_principles_cheatsheet_172_crop_8.jpg	subclass objects without damaging the program
+crop_img/software_design_principles_cheatsheet_172_crop_9.jpg	Interface Seg (I): Don't force the clients to dep on things they don't use
+crop_img/software_design_principles_cheatsheet_172_crop_10.jpg	,
+crop_img/software_design_principles_cheatsheet_172_crop_11.jpg	Dependency Inv (D); High-level does doesn't depend on low-level one
+crop_img/software_design_principles_cheatsheet_172_crop_12.jpg	GRASP: principles
+crop_img/software_design_principles_cheatsheet_172_crop_13.jpg	focus on assigning responsibility to class and e in o
+crop_img/software_design_principles_cheatsheet_172_crop_14.jpg	Creator (pattern): object created by the class that has the most info to create it
+crop_img/software_design_principles_cheatsheet_172_crop_15.jpg	.When? aggregation or containment tracking close use initialization
+crop_img/software_design_principles_cheatsheet_172_crop_16.jpg	80
+crop_img/software_design_principles_cheatsheet_172_crop_17.jpg	data
+crop_img/software_design_principles_cheatsheet_172_crop_18.jpg	Info Expert: assign resp to the class that has the essential info to create it
+crop_img/software_design_principles_cheatsheet_172_crop_19.jpg	. Note: consider the type of resp and what info are needed
+crop_img/software_design_principles_cheatsheet_172_crop_20.jpg	Low Coupling
+crop_img/software_design_principles_cheatsheet_172_crop_21.jpg	: reduce dep between classes as much as possible
+crop_img/software_design_principles_cheatsheet_172_crop_22.jpg	.How? use interfaces abstract classes, dep injection, composition inheritance,
+crop_img/software_design_principles_cheatsheet_172_crop_23.jpg	behavior encapsulation avoid bi-directional relationship
+crop_img/software_design_principles_cheatsheet_173_crop_0.jpg	High Cohesion: Similar to S in SOLID
+crop_img/software_design_principles_cheatsheet_173_crop_1.jpg	,
+crop_img/software_design_principles_cheatsheet_173_crop_2.jpg	Controller: Keep the UI separate from the Model
+crop_img/software_design_principles_cheatsheet_173_crop_3.jpg	.How? When handling a sys event assign it to a non-UI class that
+crop_img/software_design_principles_cheatsheet_173_crop_4.jpg	helps the whole sys /a use case scenario the sys respond
+crop_img/software_design_principles_cheatsheet_173_crop_5.jpg	Polymorphism: Flexible and dynamic behavior in an application
+crop_img/software_design_principles_cheatsheet_173_crop_6.jpg	.Eventual for low coupling
+crop_img/software_design_principles_cheatsheet_173_crop_7.jpg	Pure Fabrication: assign resp to classes that don't represent a concept
+crop_img/software_design_principles_cheatsheet_173_crop_8.jpg	.When? when we cannot find a sol within the problem domain
+crop_img/software_design_principles_cheatsheet_173_crop_9.jpg	middle party
+crop_img/software_design_principles_cheatsheet_173_crop_10.jpg	) Indirection: Insert an intermediate class or object to mediate between classes
+crop_img/software_design_principles_cheatsheet_173_crop_11.jpg	.When? when coupling is high
+crop_img/software_design_principles_cheatsheet_173_crop_12.jpg	.Similar to "Don't talk to strangers"
+crop_img/software_design_principles_cheatsheet_173_crop_13.jpg	Protected Variation: Protecting elements from the change of others
+crop_img/software_design_principles_cheatsheet_173_crop_14.jpg	.How? one element's change doesn't make others change
+crop_img/software_design_principles_cheatsheet_173_crop_15.jpg	Refactoring: small inline technique to keep program readable, understandable,
+crop_img/software_design_principles_cheatsheet_173_crop_16.jpg	maintain, improving design without changing functionality
+crop_img/software_design_principles_cheatsheet_173_crop_17.jpg	. Key feature: ensure program works at every detailed step
+crop_img/software_design_principles_cheatsheet_173_crop_18.jpg	why? Reg change, design improvements program work optimize
+crop_img/software_design_principles_cheatsheet_173_crop_19.jpg	outcome: make program more flexible
+crop_img/software_design_principles_cheatsheet_173_crop_20.jpg	Ex: renaming, collapse hierarchy, consolidate/ decompose cond&
+crop_img/software_design_principles_cheatsheet_173_crop_21.jpg	(ex: merge)
+crop_img/software_design_principles_cheatsheet_173_crop_22.jpg	(ex: combine conds that → same result
+crop_img/software_design_principles_cheatsheet_173_crop_23.jpg	· replace complex conds by method)
+crop_img/software_design_principles_cheatsheet_173_crop_24.jpg	extract class/ method
+crop_img/software_design_principles_cheatsheet_173_crop_25.jpg	(ex:replace code fgmnt y method)
+crop_img/software_design_principles_cheatsheet_173_crop_26.jpg	(ex:a class doing≥a work→ make a new class
+crop_img/software_design_principles_cheatsheet_174_crop_0.jpg	When? When adding a new feature/review code/fixing
+crop_img/software_design_principles_cheatsheet_174_crop_1.jpg	.When not? broken code / close deadline / no need to
+crop_img/software_design_principles_cheatsheet_174_crop_2.jpg	code Smell: A surface indication that usually crops to a deeper prob in sys
+crop_img/software_design_principles_cheatsheet_174_crop_3.jpg	.Usually found when refactoring /examining code
+crop_img/software_design_principles_cheatsheet_174_crop_4.jpg	How come? rushed design/ technical debt (lazy lst→ more work
+crop_img/software_design_principles_cheatsheet_174_crop_5.jpg	disregard
+crop_img/software_design_principles_cheatsheet_174_crop_6.jpg	later)
+crop_img/software_design_principles_cheatsheet_174_crop_7.jpg	Right way : use best practices + develop a design that can scale
+crop_img/software_design_principles_cheatsheet_174_crop_8.jpg	“hacked together design) factor
+crop_img/software_design_principles_cheatsheet_174_crop_9.jpg	Fast way:
+crop_img/software_design_principles_cheatsheet_174_crop_10.jpg	Identical
+crop_img/software_design_principles_cheatsheet_174_crop_11.jpg	group of var
+crop_img/software_design_principles_cheatsheet_174_crop_12.jpg	Bloaters: Something T so large and out of control
+crop_img/software_design_principles_cheatsheet_174_crop_13.jpg	(>10 lines)
+crop_img/software_design_principles_cheatsheet_174_crop_14.jpg	sign: contain long duplicated code along data method data clump;
+crop_img/software_design_principles_cheatsheet_174_crop_15.jpg	long para list
+crop_img/software_design_principles_cheatsheet_174_crop_16.jpg	. How come?. devs
+crop_img/software_design_principles_cheatsheet_174_crop_17.jpg	may be tempted to put new feature into an
+crop_img/software_design_principles_cheatsheet_174_crop_18.jpg	existing class
+crop_img/software_design_principles_cheatsheet_174_crop_19.jpg	that meant:
+crop_img/software_design_principles_cheatsheet_174_crop_20.jpg	extract data/Mnb-class/method j +try deleting a num
+crop_img/software_design_principles_cheatsheet_174_crop_21.jpg	to see if code still makes sense extra data backup algo)
+crop_img/software_design_principles_cheatsheet_174_crop_22.jpg	wash method) pass the whole object or data (free serve whole
+crop_img/software_design_principles_cheatsheet_174_crop_23.jpg	object)
+crop_img/software_design_principles_cheatsheet_174_crop_24.jpg	. oo Abusers: so don't fully exploit oo design
+crop_img/software_design_principles_cheatsheet_174_crop_25.jpg	.Sign: complex switch sequence of if; refused bequest
+crop_img/software_design_principles_cheatsheet_174_crop_26.jpg	subclass ref used to use full parent ' methods)
+crop_img/software_design_principles_cheatsheet_174_crop_27.jpg	.Why? For refused bequest, devs are tempted to use inheritance
+crop_img/software_design_principles_cheatsheet_174_crop_28.jpg	to reusability
+crop_img/software_design_principles_cheatsheet_174_crop_29.jpg	.Treatment: Extract method) polymorphism i push down method
+crop_img/software_design_principles_cheatsheet_174_crop_30.jpg	use interface , eliminate inheritance
+crop_img/software_design_principles_cheatsheet_175_crop_0.jpg	change Prevention: that hinders changing/upgrading
+crop_img/software_design_principles_cheatsheet_175_crop_1.jpg	(Shotgun surgery)
+crop_img/software_design_principles_cheatsheet_175_crop_2.jpg	.sign: make modifies regs make small changes to many other j
+crop_img/software_design_principles_cheatsheet_175_crop_3.jpg	many changes made to only one class (divergent change)
+crop_img/software_design_principles_cheatsheet_175_crop_4.jpg	. Why? For divergent change: poor structure /copy paste too much
+crop_img/software_design_principles_cheatsheet_175_crop_5.jpg	.Treatment : Combine to a single class ; Extract class/method
+crop_img/software_design_principles_cheatsheet_175_crop_6.jpg	Dispensable
+crop_img/software_design_principles_cheatsheet_175_crop_7.jpg	:unnecessary things
+crop_img/software_design_principles_cheatsheet_175_crop_8.jpg	• Sign: duplicated code ; lazy class j data clump
+crop_img/software_design_principles_cheatsheet_175_crop_9.jpg	. Why For lazy class, a class may become very small after several
+crop_img/software_design_principles_cheatsheet_175_crop_10.jpg	refactoring, or it's designed for future dev that is never done
+crop_img/software_design_principles_cheatsheet_175_crop_11.jpg	. Treatment: Extract method; Inline class ; Move/Extract method,
+crop_img/software_design_principles_cheatsheet_175_crop_12.jpg	encapsulation
+crop_img/software_design_principles_cheatsheet_175_crop_13.jpg	Couplers : closely connected routines/ modules
+crop_img/software_design_principles_cheatsheet_175_crop_14.jpg	(Feature envy)
+crop_img/software_design_principles_cheatsheet_175_crop_15.jpg	.sign: a method looks more interested in a class than the one it's in
+crop_img/software_design_principles_cheatsheet_175_crop_16.jpg	classes know too much about each other ; class only do one action and
+crop_img/software_design_principles_cheatsheet_175_crop_17.jpg	1
+crop_img/software_design_principles_cheatsheet_175_crop_18.jpg	)
+crop_img/software_design_principles_cheatsheet_175_crop_19.jpg	delegate work to other classes
+crop_img/software_design_principles_cheatsheet_175_crop_20.jpg	Inappropriate intimacy
+crop_img/software_design_principles_cheatsheet_175_crop_21.jpg	middle
+crop_img/software_design_principles_cheatsheet_175_crop_22.jpg	man
+crop_img/software_design_principles_cheatsheet_175_crop_23.jpg	Why? For middle man, moving too much from a class resulting in
+crop_img/software_design_principles_cheatsheet_175_crop_24.jpg	it can only delegate work
+crop_img/software_design_principles_cheatsheet_175_crop_25.jpg	.Treatment : move method j move method/field change association
+crop_img/software_design_principles_cheatsheet_175_crop_26.jpg	to once; inline class
+crop_img/software_design_principles_cheatsheet_175_crop_27.jpg	Design pattern: typical solutions to common probs in software design
+crop_img/software_design_principles_cheatsheet_175_crop_28.jpg	(like a blueprint if algo is like a recipe)
+crop_img/software_design_principles_cheatsheet_176_crop_0.jpg	Category of Lat
+crop_img/software_design_principles_cheatsheet_176_crop_1.jpg	Creational lat: try to create suitable objects flexibility and reuse
+crop_img/software_design_principles_cheatsheet_176_crop_2.jpg	) Structural lat : explain how to assemble & larger structure
+crop_img/software_design_principles_cheatsheet_176_crop_3.jpg	still flexible and
+crop_img/software_design_principles_cheatsheet_176_crop_4.jpg	efficient)
+crop_img/software_design_principles_cheatsheet_176_crop_5.jpg	Behavioral Lat: algorithms & assign of rest of objects
+crop_img/software_design_principles_cheatsheet_176_crop_6.jpg	)
+crop_img/software_design_principles_cheatsheet_176_crop_7.jpg	Singleton lat: Ensures there only one instance of a do ever exists
+crop_img/software_design_principles_cheatsheet_176_crop_8.jpg	created and a! one global way to access it
+crop_img/software_design_principles_cheatsheet_176_crop_9.jpg	.Components : private constructor, public static method private static instance
+crop_img/software_design_principles_cheatsheet_176_crop_10.jpg	(to access)
+crop_img/software_design_principles_cheatsheet_176_crop_11.jpg	(store one
+crop_img/software_design_principles_cheatsheet_176_crop_12.jpg	variable
+crop_img/software_design_principles_cheatsheet_176_crop_13.jpg	instance
+crop_img/software_design_principles_cheatsheet_176_crop_14.jpg	only create an instance
+crop_img/software_design_principles_cheatsheet_176_crop_15.jpg	is null
+crop_img/software_design_principles_cheatsheet_176_crop_16.jpg	Strategy Lat:  Beh define a fam of algo by putting them in separate
+crop_img/software_design_principles_cheatsheet_176_crop_17.jpg	classes and making their objects interchangeable
+crop_img/software_design_principles_cheatsheet_176_crop_18.jpg	. To maintain & grow
+crop_img/software_design_principles_cheatsheet_176_crop_19.jpg	Components: A strategy interface includes # concrete strategies
+crop_img/software_design_principles_cheatsheet_176_crop_20.jpg	to use
+crop_img/software_design_principles_cheatsheet_176_crop_21.jpg	Factory Method lat: Ensures using a factory method to create instances of
+crop_img/software_design_principles_cheatsheet_176_crop_22.jpg	a class instead of directly create them
+crop_img/software_design_principles_cheatsheet_176_crop_23.jpg	.Why? changing the type of object used can be challenging. We can
+crop_img/software_design_principles_cheatsheet_176_crop_24.jpg	decouple instance creation using factory method
+crop_img/software_design_principles_cheatsheet_176_crop_25.jpg	.Components: Interface Product includes # concrete products) a creator
+crop_img/software_design_principles_cheatsheet_176_crop_26.jpg	class that is inherited by concrete creator class related to each concrete
+crop_img/software_design_principles_cheatsheet_176_crop_27.jpg	product
+crop_img/software_design_principles_cheatsheet_176_crop_28.jpg	Observer lat: Ensures, define a subscription mechanism to have multiple
+crop_img/software_design_principles_cheatsheet_176_crop_29.jpg	events issued by the “publisher" and multiple "observer notified
+crop_img/software_design_principles_cheatsheet_176_crop_30.jpg	.Why? Sometimes a change to y needed to be notified to all
+crop_img/software_design_principles_cheatsheet_176_crop_31.jpg	other ways
+crop_img/software_design_principles_cheatsheet_177_crop_0.jpg	Component: publisher class that holds a list of subscriptions) and
+crop_img/software_design_principles_cheatsheet_177_crop_1.jpg	Concrete subscriber classes (implements the interface Subscriber)
+crop_img/software_design_principles_cheatsheet_177_crop_2.jpg	Composite lat: Ensures all about creating tree-like structure of object.
+crop_img/software_design_principles_cheatsheet_177_crop_3.jpg	Treat individual objects and compositions uniformly
+crop_img/software_design_principles_cheatsheet_177_crop_4.jpg	Component's: delegate
+crop_img/software_design_principles_cheatsheet_177_crop_5.jpg	Leaf: do all the work
+crop_img/software_design_principles_cheatsheet_177_crop_6.jpg	Visitor lat: E Beh, helps add operations to objects without altering
+crop_img/software_design_principles_cheatsheet_177_crop_7.jpg	those objects themselves (use an external class for this)
+crop_img/software_design_principles_cheatsheet_177_crop_8.jpg	• Component: Interface visitor, concrete visitor classes implement visitor
+crop_img/software_design_principles_cheatsheet_177_crop_9.jpg	Concrete element bound to each visitor class implements interface Element
+crop_img/software_design_principles_cheatsheet_177_crop_10.jpg	Decorator lat: E struct, helps add features or behaviors to objects
+crop_img/software_design_principles_cheatsheet_177_crop_11.jpg	without changing the object's original class
+crop_img/software_design_principles_cheatsheet_177_crop_12.jpg	• Components: a Notifier class
+crop_img/software_design_principles_cheatsheet_177_crop_13.jpg	base Decorator (where we will add features)
+crop_img/software_design_principles_cheatsheet_177_crop_14.jpg	Concrete Notifiers inherited from Base Decorator
+crop_img/software_design_principles_cheatsheet_177_crop_15.jpg	Wrong
+crop_img/software_design_principles_cheatsheet_177_crop_16.jpg	Init
+crop_img/software_design_principles_cheatsheet_177_crop_17.jpg	Client
+crop_img/software_design_principles_cheatsheet_177_crop_18.jpg	interface
+crop_img/software_design_principles_cheatsheet_177_crop_19.jpg	DataSource
+crop_img/software_design_principles_cheatsheet_177_crop_20.jpg	+writeData(data)
+crop_img/software_design_principles_cheatsheet_177_crop_21.jpg	+readData()
+crop_img/software_design_principles_cheatsheet_177_crop_22.jpg	4
+crop_img/software_design_principles_cheatsheet_177_crop_23.jpg	FileDataSource
+crop_img/software_design_principles_cheatsheet_177_crop_24.jpg	DataSourceDecorator
+crop_img/software_design_principles_cheatsheet_177_crop_25.jpg	-filename
+crop_img/software_design_principles_cheatsheet_177_crop_26.jpg	-wrappee: DataSource
+crop_img/software_design_principles_cheatsheet_177_crop_27.jpg	+FileDataSource(filename)
+crop_img/software_design_principles_cheatsheet_177_crop_28.jpg	DataSourceDecorator(s:DataSource)
+crop_img/software_design_principles_cheatsheet_177_crop_29.jpg	+writeData(data)
+crop_img/software_design_principles_cheatsheet_177_crop_30.jpg	+writeData(data)
+crop_img/software_design_principles_cheatsheet_177_crop_31.jpg	+readData()
+crop_img/software_design_principles_cheatsheet_177_crop_32.jpg	+readData()
+crop_img/software_design_principles_cheatsheet_177_crop_33.jpg	4
+crop_img/software_design_principles_cheatsheet_177_crop_34.jpg	Encryption
+crop_img/software_design_principles_cheatsheet_177_crop_35.jpg	Compression
+crop_img/software_design_principles_cheatsheet_177_crop_36.jpg	Decorator
+crop_img/software_design_principles_cheatsheet_177_crop_37.jpg	Decorator
+crop_img/software_design_principles_cheatsheet_177_crop_38.jpg	+writeData(data)
+crop_img/software_design_principles_cheatsheet_177_crop_39.jpg	+writeData(data)
+crop_img/software_design_principles_cheatsheet_177_crop_40.jpg	+readData()
+crop_img/software_design_principles_cheatsheet_177_crop_41.jpg	+readData()
+crop_img/software_design_principles_cheatsheet_178_crop_0.jpg	Software Agreement & Testing:
+crop_img/software_design_principles_cheatsheet_178_crop_1.jpg	) Dynamic Verification: test system until it fails (executing code in a
+crop_img/software_design_principles_cheatsheet_178_crop_2.jpg	runtime env), include various levels
+crop_img/software_design_principles_cheatsheet_178_crop_3.jpg	static verification: examining code without executing it. Use tools to
+crop_img/software_design_principles_cheatsheet_178_crop_4.jpg	analyze code, can be performed very early on. Don't at runtime on
+crop_img/software_design_principles_cheatsheet_178_crop_5.jpg	on compiled code
+crop_img/software_design_principles_cheatsheet_178_crop_6.jpg	Inspection/review/Walkthrough: Human activity group-based + manual
+crop_img/software_design_principles_cheatsheet_178_crop_7.jpg	Inspection: formal checklist + moderation
+crop_img/software_design_principles_cheatsheet_178_crop_8.jpg	Review: less formal + peers
+crop_img/software_design_principles_cheatsheet_178_crop_9.jpg	Walkthrough:
+crop_img/software_design_principles_cheatsheet_178_crop_10.jpg	informal + author
+crop_img/software_design_principles_cheatsheet_178_crop_11.jpg	A
+crop_img/software_design_principles_cheatsheet_178_crop_12.jpg	) Formal verification: Math - exhaustive can be time-consuming + expensive
+crop_img/software_design_principles_cheatsheet_178_crop_13.jpg	outside org
+crop_img/software_design_principles_cheatsheet_178_crop_14.jpg	outside org
+crop_img/software_design_principles_cheatsheet_178_crop_15.jpg	within org
+crop_img/software_design_principles_cheatsheet_178_crop_16.jpg	within org
+crop_img/software_design_principles_cheatsheet_178_crop_17.jpg	) Testing stages:
+crop_img/software_design_principles_cheatsheet_178_crop_18.jpg	Dev Test α Test β Test Product Release
+crop_img/software_design_principles_cheatsheet_178_crop_19.jpg	(open box)
+crop_img/software_design_principles_cheatsheet_178_crop_20.jpg	(black box)
+crop_img/software_design_principles_cheatsheet_178_crop_21.jpg	Testing technique: opaque box Test
+crop_img/software_design_principles_cheatsheet_178_crop_22.jpg	Clear Box Test
+crop_img/software_design_principles_cheatsheet_178_crop_23.jpg	) Test Driven Development (TDD): Test written before code and ~ all
+crop_img/software_design_principles_cheatsheet_178_crop_24.jpg	production code have test unit
+crop_img/software_design_principles_cheatsheet_178_crop_25.jpg	Rule:
+crop_img/software_design_principles_cheatsheet_178_crop_26.jpg	make it fail
+crop_img/software_design_principles_cheatsheet_178_crop_27.jpg	make it work (as simply as possible)
+crop_img/software_design_principles_cheatsheet_178_crop_28.jpg	make it better (refactor)
+crop_img/software_design_principles_cheatsheet_178_crop_29.jpg	Run Test → New test → Write new test → Run test
+crop_img/software_design_principles_cheatsheet_178_crop_30.jpg	Test Cycle:
+crop_img/software_design_principles_cheatsheet_178_crop_31.jpg	write new
+crop_img/software_design_principles_cheatsheet_178_crop_32.jpg	refactor then test
+crop_img/software_design_principles_cheatsheet_178_crop_33.jpg	code
+crop_img/software_design_principles_cheatsheet_178_crop_34.jpg	Test dev disciplines
+crop_img/software_design_principles_cheatsheet_178_crop_35.jpg	and provide incremental specification
+crop_img/software_design_principles_cheatsheet_178_crop_36.jpg	) Why TDD?
+crop_img/software_design_principles_cheatsheet_178_crop_37.jpg	④ confidence while changing
+crop_img/software_design_principles_cheatsheet_178_crop_38.jpg	3
+crop_img/software_design_principles_cheatsheet_178_crop_39.jpg	Avoid regression
+crop_img/software_design_principles_cheatsheet_178_crop_40.jpg	erLon
+crop_img/to_do_note_2_crop_0.jpg	About Login
+crop_img/to_do_note_2_crop_1.jpg	1
+crop_img/to_do_note_2_crop_2.jpg	Contact page
+crop_img/to_do_note_2_crop_3.jpg	2
+crop_img/to_do_note_2_crop_4.jpg	3
+crop_img/to_do_note_2_crop_5.jpg	Cancel logout Redirect
+crop_img/to_do_note_2_crop_6.jpg	By Sunday 20104
+crop_img/user_stories_user_cases_26_crop_0.jpg	USER STORIES & USER CASES
+crop_img/user_stories_user_cases_26_crop_1.jpg	) Use cases: How system will interact with end-user used to doc functional reqs
+crop_img/user_stories_user_cases_26_crop_2.jpg	. 3 levels: brief, casual, fully-dressed
+crop_img/user_stories_user_cases_26_crop_3.jpg	. structure: Actor/user (SUD) Goal, Preconditions, main success scenario
+crop_img/user_stories_user_cases_26_crop_4.jpg	alternate scenario post condition (fully-dressed include all)
+crop_img/user_stories_user_cases_26_crop_5.jpg	) User stories: simple informal way to describe user needs
+crop_img/user_stories_user_cases_26_crop_6.jpg	.Structure: As a [role], I want [feature], so that [benefit]
+crop_img/user_stories_user_cases_26_crop_7.jpg	. Accept Criteria: describe initial state what happens in the system when user
+crop_img/user_stories_user_cases_26_crop_8.jpg	interacts result
+crop_img/user_stories_user_cases_26_crop_9.jpg	(Given...→ And….→when.….→ then.…→And.)
+crop_img/user_stories_user_cases_26_crop_10.jpg	SOFTWARE ARCHITECTURE
+crop_img/user_stories_user_cases_26_crop_11.jpg	pf: Fundamental org of a system the components their relationships,
+crop_img/user_stories_user_cases_26_crop_12.jpg	principles governing its design)
+crop_img/user_stories_user_cases_26_crop_13.jpg	. Decided by early and hard-to-change decisions
+crop_img/user_stories_user_cases_26_crop_14.jpg	design: org of modules, easy-to-change
+crop_img/user_stories_user_cases_26_crop_15.jpg	communicate with all
+crop_img/user_stories_user_cases_26_crop_16.jpg	cen
+crop_img/user_stories_user_cases_26_crop_17.jpg	个
+crop_img/user_stories_user_cases_26_crop_18.jpg	skate holders
+crop_img/user_stories_user_cases_26_crop_19.jpg	) Software Architect: great comm shils, use effective mechanisms to repre software
+crop_img/user_stories_user_cases_26_crop_20.jpg	logical
+crop_img/user_stories_user_cases_26_crop_21.jpg	dev
+crop_img/user_stories_user_cases_26_crop_22.jpg	Scenarios
+crop_img/user_stories_user_cases_26_crop_23.jpg	4t1 view model : describing the arch of a sys wing process
+crop_img/user_stories_user_cases_26_crop_24.jpg	physical
+crop_img/user_stories_user_cases_26_crop_25.jpg	views
+crop_img/user_stories_user_cases_26_crop_26.jpg	) client-Server : services crpd to servers, clientx access services via a network
+crop_img/user_stories_user_cases_26_crop_27.jpg	2-tier arch style (client & server on a diff hardware)
+crop_img/user_stories_user_cases_26_crop_28.jpg	 N-tier :>α-t0
+crop_img/user_stories_user_cases_26_crop_29.jpg	 Peer-to-Peer: No distinction betwn client & server, computations
+crop_img/user_stories_user_cases_26_crop_30.jpg	can be carried by any node in the network
+crop_img/user_stories_user_cases_26_crop_31.jpg	.fo : fault + disconnection node tolerance
+crop_img/user_stories_user_cases_26_crop_32.jpg	.lonely · malicious node (not fe)
+crop_img/user_stories_user_cases_26_crop_33.jpg	Blackboard : each specialist knowledge source contribute a partial solution
+crop_img/user_stories_user_cases_26_crop_34.jpg	.Components: blackboard, knowledge source control component
+crop_img/user_stories_user_cases_26_crop_35.jpg	contain solution objects
+crop_img/user_stories_user_cases_26_crop_36.jpg	select & execute knowledge source
+crop_img/user_stories_user_cases_26_crop_37.jpg	) Layered:
+crop_img/user_stories_user_cases_26_crop_38.jpg	layers w/related functions, ensure each layer depends on one beneath it
+crop_img/user_stories_user_cases_26_crop_39.jpg	and is independent on top of it
+crop_img/user_stories_user_cases_26_crop_40.jpg	.faoN ; isolation Reusability, separation of concerns
+crop_img/user_stories_user_cases_26_crop_41.jpg	. Cons : redundant ) rigid, complex
+crop_img/user_stories_user_cases_27_crop_0.jpg	Like
+crop_img/user_stories_user_cases_27_crop_1.jpg	Filter →.Data Sink
+crop_img/user_stories_user_cases_27_crop_2.jpg	) Pipe and Filter : Data Source
+crop_img/user_stories_user_cases_27_crop_3.jpg	→
+crop_img/user_stories_user_cases_27_crop_4.jpg	Piping: give the output of one command as input to subsequent command
+crop_img/user_stories_user_cases_27_crop_5.jpg	) Event Driven : a component can announce events, other listen and do work
+crop_img/user_stories_user_cases_27_crop_6.jpg	) Model-view-Controller: arch pattern follow layered approach
+crop_img/user_stories_user_cases_27_crop_7.jpg	Controller: model update based on user actions
+crop_img/user_stories_user_cases_27_crop_8.jpg	. view : render model, send user event to controller
+crop_img/user_stories_user_cases_27_crop_9.jpg	Model : capture model updates, notifier changes → view
+crop_img/user_stories_user_cases_27_crop_10.jpg	 Model-view-View Model: .model and view not connected
+crop_img/user_stories_user_cases_27_crop_11.jpg	send request
+crop_img/user_stories_user_cases_27_crop_12.jpg	VI Action
+crop_img/user_stories_user_cases_27_crop_13.jpg	View
+crop_img/user_stories_user_cases_27_crop_14.jpg	Model Data source
+crop_img/user_stories_user_cases_27_crop_15.jpg	→
+crop_img/user_stories_user_cases_27_crop_16.jpg	View Model
+crop_img/user_stories_user_cases_27_crop_17.jpg	Observe
+crop_img/user_stories_user_cases_27_crop_18.jpg	data change
+crop_img/user_stories_user_cases_27_crop_19.jpg	response
+crop_img/user_stories_user_cases_27_crop_20.jpg	 object Oriented Analysis : E RE phase
+crop_img/user_stories_user_cases_27_crop_21.jpg	not software objects
+crop_img/user_stories_user_cases_27_crop_22.jpg	Gather req: Domain Model (initialization of real-situation object)
+crop_img/user_stories_user_cases_27_crop_23.jpg	 Domain Model in a UML
+crop_img/user_stories_user_cases_27_crop_24.jpg	obtained from RE analysis
+crop_img/user_stories_user_cases_27_crop_25.jpg	. Relationship :Ex:x
+crop_img/user_stories_user_cases_27_crop_26.jpg	store
+crop_img/user_stories_user_cases_27_crop_27.jpg	Y
+crop_img/user_stories_user_cases_27_crop_28.jpg	) System Sequence Diagram : show how actors and system interact, capture
+crop_img/user_stories_user_cases_27_crop_29.jpg	only one use case. Interactions go from top to down over time in cases
+crop_img/user_stories_user_cases_27_crop_30.jpg	.Glossary : give more details about new terms in sso
+crop_img/user_stories_user_cases_27_crop_31.jpg	.Follow DRY agile principle . Fragment : Loop) Alt, Opt, Ref
+crop_img/user_stories_user_cases_27_crop_32.jpg	) Sequence Diagram: models a single scenario, no longer a black box
+crop_img/user_stories_user_cases_27_crop_33.jpg	.Object life line : u--"
+crop_img/user_stories_user_cases_27_crop_34.jpg	Activation bar: a rectangle bar represents active
+crop_img/user_stories_user_cases_27_crop_35.jpg	• message→ : wait for receiver
+crop_img/user_stories_user_cases_27_crop_36.jpg	message→: don't wait for receiver
+crop_img/user_stories_user_cases_27_crop_37.jpg	) Design Class Diagram : models software classes and object + relationships
+crop_img/user_stories_user_cases_27_crop_38.jpg	visibility: public (+) protected (#), private (), divided)
+crop_img/user_stories_user_cases_27_crop_39.jpg	methods : vis + name (para): return-type
+crop_img/user_stories_user_cases_27_crop_40.jpg	.D inheritance
+crop_img/user_stories_user_cases_27_crop_41.jpg	------: interface implementation
+crop_img/user_stories_user_cases_27_crop_42.jpg	on>:× related to y | ----→:× use x y as para
+crop_img/user_stories_user_cases_27_crop_43.jpg	—: whole & part separable
+crop_img/user_stories_user_cases_27_crop_44.jpg	: whole & part inseparable
+crop_img/user_stories_user_cases_27_crop_45.jpg	0
+crop_img/user_stories_user_cases_27_crop_46.jpg	Attribute Text vs Association Line
