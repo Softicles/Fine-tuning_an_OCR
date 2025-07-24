@@ -6,7 +6,7 @@ ocr_pretrained = PaddleOCR(rec_model_dir="/home/thinh/Desktop/Fine-tuning_an_OCR
 ocr_trained = PaddleOCR(rec_model_dir="/home/thinh/Desktop/Fine-tuning_an_OCR/checkpoints/inference_model",use_angle_cls=True,lang='en') # need to run only once to download and load model into memory
 
 # an image to test 
-img_path = '/home/thinh/Desktop/Fine-tuning_an_OCR/output_images/crop_img/assembly_hw_227_crop_15.jpg'
+img_path = '/home/thinh/Desktop/Fine-tuning_an_OCR/output_images/crop_img/computer_organization_exam_note_8_crop_13.jpg'
 image = Image.open(img_path).convert('RGB')
 image.show()
 
