@@ -13,7 +13,8 @@ The goal of this project is to **fine-tune PaddleOCR’s recognition model** to 
 Inspired by:  
 [Fine-Tuning PaddleOCR’s Recognition Model (Anush Som's Tutorial)](https://anushsom.medium.com/finetuning-paddleocrs-recognition-model-for-dummies-by-a-dummy-89ac7d7edcf6)
 
-**Data Preparation**, **Fine-tuning Process**, and **Demo** are done in three different virtual environments
+**Data Preparation**, **Fine-tuning Process**, and **Demo** are done in three different virtual environments.
+
 ## Tools & Technologies
 
 - **PaddleOCR**: Open-source OCR system developed by PaddlePaddle
@@ -23,7 +24,7 @@ Inspired by:
 
 ## Data Preparation
 
-The labeled dataset was created using **PPOCRLabel**, which supports text detection and recognition annotations tailored for PaddleOCR training. I used PaddleOCR toolkit version **3.1.0** and PaddlePaddle framework version **3.1.0** to help generate better translations
+The labeled dataset was created using **PPOCRLabel**, which supports text detection and recognition annotations tailored for PaddleOCR training. I used PaddleOCR toolkit version **3.1.0** and PaddlePaddle framework version **3.1.0** to help generate better translations.
 
 Steps:
 1. Converted my handwriting pdfs to JPEG (_train_test_split.py_)
