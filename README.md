@@ -39,7 +39,7 @@ python3 tools/train.py   -c  path/to/project/folder/pretrained_model/en_PP-OCRv3
 To output the trained model, I will execute this command (also in the `PaddleOCR` directory):
 
 ```
-python3 tools/export_model.py   -c /path/to/project/folder/pretrain_models/en_PP-OCRv3_mobile_rec.yml   -o Global.pretrained_model=/path/to/project/folder/checkpoints/v3_en_mobile/latest    Global.save_inference_dir=/path/to/project/folder/Fine-tuning_an_OCR/checkpoints/inference_model
+python3 tools/export_model.py   -c /path/to/project/folder/pretrained_models/en_PP-OCRv3_mobile_rec.yml   -o Global.pretrained_model=/path/to/project/folder/checkpoints/v3_en_mobile/latest    Global.save_inference_dir=/path/to/project/folder/Fine-tuning_an_OCR/checkpoints/inference_model
 ```
 
 ## Outcomes
