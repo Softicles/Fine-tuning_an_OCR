@@ -13,6 +13,7 @@ The goal of this project is to **fine-tune PaddleOCR’s recognition model** to 
 Inspired by:  
 [Fine-Tuning PaddleOCR’s Recognition Model (Anush Som's Tutorial)](https://anushsom.medium.com/finetuning-paddleocrs-recognition-model-for-dummies-by-a-dummy-89ac7d7edcf6)
 
+**Data Preparation**, **Fine-tuning Process**, and **Demo** are done in three different virtual environments
 ## Tools & Technologies
 
 - **PaddleOCR**: Open-source OCR system developed by PaddlePaddle
@@ -112,7 +113,7 @@ I trained the model for 10 epochs, here are the details:
 [2025/07/22 05:12:40] ppocr INFO: best metric, acc: 0, is_float16: False
 ```
 
-## Outcomes
+## Demo
 
 I run `demo.py` to output the extracted texts from the `test.jpg` image by both the initial model and the fine-tuned model (both have never seen this image). Here is the terminal output:
 
