@@ -46,7 +46,7 @@ To output the trained model, I executed this command (also in the `PaddleOCR` di
 python3 tools/export_model.py   -c /path/to/project/folder/pretrained_models/en_PP-OCRv3_mobile_rec.yml   -o Global.pretrained_model=/path/to/project/folder/checkpoints/v3_en_mobile/latest    Global.save_inference_dir=/path/to/project/folder/Fine-tuning_an_OCR/checkpoints/inference_model
 ```
 
-I trained the model for 10 epochs, here is the details:
+I trained the model for 10 epochs, here are the details:
 
 ```
 [2025/07/22 00:14:40] ppocr INFO: During the training process, after the 0th iteration, an evaluation is run every 2000 iterations
