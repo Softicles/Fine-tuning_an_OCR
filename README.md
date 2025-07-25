@@ -153,7 +153,7 @@ Extracted Texts: )Iqoreali%m :Wonidbut they containmeaninqY9regardingour wo9rld)
 
 Extracted Texts: Iralism:world but they containmeanings regarding our world) "Starry Night: reflect Van Gogh's emotional state duringhis timeat St.faul-de-Mausoleasylum)Question8What do you think about this scene?think the animator want to tell us ?Whatdo
 ```
-
+![test_img](https://github.com/user-attachments/assets/bf1e03d7-faf7-440b-8b52-abf24b5dcde2)
 
 ## References
 
