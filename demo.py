@@ -5,8 +5,8 @@ import os
 ocr_pretrained = PaddleOCR(rec_model_dir="/home/thinh/Desktop/Fine-tuning_an_OCR/pretrained_model/inference_model",use_angle_cls=True,lang='en')
 ocr_trained = PaddleOCR(rec_model_dir="/home/thinh/Desktop/Fine-tuning_an_OCR/checkpoints/inference_model",use_angle_cls=True,lang='en') # need to run only once to download and load model into memory
 
-# an image to test 
-img_path = '/home/thinh/Desktop/Fine-tuning_an_OCR/output_images/crop_img/computer_organization_exam_note_8_crop_13.jpg'
+# an image to test (have never seen by the OCR) 
+img_path = '/home/thinh/Desktop/Fine-tuning_an_OCR/test_img.jpg'
 image = Image.open(img_path).convert('RGB')
 image.show()
 
@@ -17,7 +17,7 @@ for res in result_pretrained[0]:
     print(res)
 
 txts_pretrained = [line[1][0] for line in result_pretrained[0]]
-print("\nExtracted Texts:", txts_pretrained)
+print("\nExtracted Texts:", "".join(txts_pretrained))
 
 print("\n=== OCR Result from Trained Model ===")
 
@@ -26,4 +26,4 @@ for res in result_trained[0]:
     print(res)
 
 txts_trained = [line[1][0] for line in result_trained[0]]
-print("\nExtracted Texts:", txts_trained)
+print("\nExtracted Texts:", "".join(txts_trained))
