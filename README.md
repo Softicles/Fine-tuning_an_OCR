@@ -36,7 +36,7 @@ Steps:
 ## Fine-Tuning Process
 The configurations of the fine-tuning process is in `pretrain_model/en_PP-OCRv3_mobile_rec.yml`
 
-To train the model to recognize my hand-writings, in the terminal, I navigated to the `PaddleOCR` folder directory of training virtual environment, then execute this command:
+To train the model to recognize my hand-writings, in the terminal, I navigated to the `PaddleOCR` folder directory of training virtual environment, then executed this command:
 
 ```
 python3 tools/train.py   -c  path/to/project/folder/pretrained_model/en_PP-OCRv3_mobile_rec.yml   -o Global.pretrained_model=path/to/project/folder/pretrained_model/en_PP-OCRv3_rec_train/best_accuracy
