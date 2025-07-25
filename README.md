@@ -6,6 +6,10 @@ This project was developed as part of **CS3600 - Introduction to Artificial Inte
 
 The goal of this project is to **fine-tune PaddleOCR’s recognition model** to better recognize and transcribe my personal handwriting. While PaddleOCR provides powerful general-purpose text detection and recognition tools, its accuracy drops significantly when used with my handwriting, even though I think my hand writing is not that bad. Therefore, I want to train it using my handwriting so that it can recognize my handwriting with high accuracy. 
 
+- The PaddleOCR model to fine-tune: [English ultra-lightweight PP-OCRv3 model](https://github.com/PaddlePaddle/PaddleOCR/blob/main/docs/version2.x/model/index.md)
+- PaddleOCR toolkit: version 2.6.1
+- PaddlePaddle framework: version 2.6.1
+ 
 Inspired by:  
 [Fine-Tuning PaddleOCR’s Recognition Model (Anush Som's Tutorial)](https://anushsom.medium.com/finetuning-paddleocrs-recognition-model-for-dummies-by-a-dummy-89ac7d7edcf6)
 
@@ -18,7 +22,7 @@ Inspired by:
 
 ## Data Preparation
 
-The labeled dataset was created using **PPOCRLabel**, which supports text detection and recognition annotations tailored for PaddleOCR training.
+The labeled dataset was created using **PPOCRLabel**, which supports text detection and recognition annotations tailored for PaddleOCR training. I used PaddleOCR toolkit version **3.1.0** and PaddlePaddle framework version **3.1.0** to help generate better translations
 
 Steps:
 1. Converted my handwriting pdfs to JPEG (_train_test_split.py_)
