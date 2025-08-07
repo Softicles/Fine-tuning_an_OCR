@@ -4,7 +4,7 @@ This project was developed as part of **CS3600 - Introduction to Artificial Inte
 
 ## Project Overview
 
-The goal of this project is to **fine-tune PaddleOCR’s recognition model** to better recognize and transcribe my personal handwriting. While PaddleOCR provides powerful general-purpose text detection and recognition tools, its accuracy drops significantly when used with my handwriting, even though I think my hand writing is not that bad. Therefore, I want to train it using my handwriting so that it can recognize my handwriting with high accuracy. 
+The goal of this project is to **fine-tune PaddleOCR’s recognition model** to recognize my handwriting better. While PaddleOCR provides powerful general-purpose text detection and recognition tools, its accuracy drops significantly when used with my handwriting, even though I think my hand writing is not that bad. Therefore, I want to train it using my handwriting so that it can recognize my handwriting with high accuracy. 
 
 - The PaddleOCR model to fine-tune: [English ultra-lightweight PP-OCRv3 model](https://github.com/PaddlePaddle/PaddleOCR/blob/main/docs/version2.x/model/index.md)
 - PaddleOCR toolkit: version **2.6.1**
