@@ -1,6 +1,6 @@
 # Fine-tune PaddleOCR to Suit My Handwriting
 
-This project was developed as part of **CS3600 - Introduction to Artificial Intelligence** taught by **Professor Alexander Karpekov** during **Summer 2025** at **Georgia Tech**.
+This project was developed as part of **CS3600 - Introduction to Artificial Intelligence** taught by [**Professor Alexander Karpekov**](https://www.linkedin.com/in/karpekov/) during **Summer 2025** at **Georgia Tech**.
 
 ## Project Overview
 
