@@ -1,4 +1,4 @@
-# Fine-tune PaddleOCR to Suit My Handwriting
+# Fine-tune PaddleOCR to suit my handwriting
 
 This project was advised by Professor [**Alexander Karpekov**](https://www.linkedin.com/in/karpekov/) who taught me **CS3600 - Introduction to Artificial Intelligence** during **Summer 2025** at **Georgia Tech**.
 
