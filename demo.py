@@ -2,11 +2,13 @@ from paddleocr import PaddleOCR
 from PIL import Image
 import os
 
-ocr_pretrained = PaddleOCR(rec_model_dir="/home/thinh/Desktop/Fine-tuning_an_OCR/pretrained_model/inference_model",use_angle_cls=True,lang='en')
-ocr_trained = PaddleOCR(rec_model_dir="/home/thinh/Desktop/Fine-tuning_an_OCR/checkpoints/inference_model",use_angle_cls=True,lang='en') # need to run only once to download and load model into memory
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+ocr_pretrained = PaddleOCR(rec_model_dir=os.path.join(HERE, "pretrained_model", "inference_model"),use_angle_cls=True,lang='en')
+ocr_trained = PaddleOCR(rec_model_dir=os.path.join(HERE, "checkpoints", "inference_model"),use_angle_cls=True,lang='en') # need to run only once to download and load model into memory
 
 # an image to test (have never seen by the OCR) 
-img_path = '/home/thinh/Desktop/Fine-tuning_an_OCR/test_img.jpg'
+img_path = os.path.join(HERE, "test_img.jpg")
 image = Image.open(img_path).convert('RGB')
 image.show()
 
